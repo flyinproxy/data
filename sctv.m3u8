@@ -1,6 +1,0 @@
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/FlyinDVB/vd/refs/heads/main/sctv.jpg" group-title="Vidio TV",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0
-#EXTVLCOPT:http-referrer=https://m.vidio.com/
-#KODIPROP:inputstreamclass=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://etslive-v3-vidio-com-tokenized.akamaized.net/live/205/master.m3u8?hdnts=exp=1748878519~acl=/live/205/master.m3u8!/hls-p/ingest_205*/*!/hls-b/ingest_205*/*~id=allUsers~hmac=4d0836c4b7548b36643d8dd1aa49c4f362305910bcf4965b0835b81f438b2992
