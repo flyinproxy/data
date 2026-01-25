@@ -16,4 +16,4 @@ hdntl=exp=1769433181~acl=%2f*~id=5b8e9d48-f51a-424c-affc-899bbcce1bc5~data=hdntl
 #EXT-X-STREAM-INF:BANDWIDTH=2692800,AVERAGE-BANDWIDTH=2340800,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000
 hdntl=exp=1769433181~acl=%2f*~id=5b8e9d48-f51a-424c-affc-899bbcce1bc5~data=hdntl~hmac=d4f648c33dc3899d45a0e0d48edabe75f5a2ac79137e06f79acb5928bbcc41a1/master_2000.m3u8?aka_me_session_id=AAAAAAAAAABdaHdpAAAAAE7As4JYge8cLfKwPWZlVpOgWc1Ht93QRibC9JVv0pX8rf+4G6EOz+OLnzbHQT5vQKvmsVQwuX2o&aka_media_format_type=hls
 #EXT-X-STREAM-INF:BANDWIDTH=4571600,AVERAGE-BANDWIDTH=3955600,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000
-hdntl=exp=1769433181~acl=%2f*~id=5b8e9d48-f51a-424c-affc-899bbcce1bc5~data=hdntl~hmac=d4f648c33dc3899d45a0e0d48edabe75f5a2ac79137e06f79acb5928bbcc41a1/master_3500.m3u8?aka_me_session_id=AAAAAAAAAABdaHdpAAAAAE7As4JYge8cLfKwPWZlVpOgWc1Ht93QRibC9JVv0pX8rf+4G6EOz+OLnzbHQT5vQKvmsVQwuX2o&aka_media_format_type=hls
+hdntl=exp=1769433181~acl=%2f*~id=5b8e9d48-f51a-424c-affc-899bbcce1bc5~data=hdntl~hmac=d4f648c33dc3899d45a0e0d48edabe75f5a2ac79137e06f79acb5928bbcc41a1/master_3500.m3u8
