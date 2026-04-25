@@ -1,5 +1,5 @@
 {
-  "lastRefresh": "25-04-2026 07:12 PM",
+  "lastRefresh": "25-04-2026 08:19 PM",
   "fixtures": {
     "live": [
       {
@@ -15,19 +15,6 @@
         "pssh": "AAAAaHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAEgIARIQ00O6oIPQOAWu46trJN4NxyIwZXlKaGMzTmxkRWxrSWpvaWJHbDJaUzAxTkRnM09EWXdRaTFEUlU1RGVFaEVJbjA9OAA=",
         "cachedAt": "25-04-2026 07:02 PM",
         "scheduleLabel": "25-04-2026 05:30 PM"
-      },
-      {
-        "id": "5583308",
-        "title": "Brighton & Hove Albion v Manchester City - WSL 2025/26",
-        "liveStartDate": {
-          "WIB": "25-04-2026 05:50 PM"
-        },
-        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY4JTJGYXR0MEpKM0EzeW11dWFYY2cuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGOCUyRmF0dGkxbmR3R3BGaHlpZGNkLmpwZ1x1MDAyNmNvbXBDb2xvcj1iNTllNWZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGOCUyRmF0dDg3anVQVVhiRERScTNJLnBuZ1x1MDAyNmRlc2M9V1NMKyVFMiU4MCVBMitNVysyMFx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9V1NMXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNSUyRjglMkZhdHRJNzhseHdKRUJUUWtydy5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI1JTJGOCUyRmF0dFhEYlNJb3U1Yk5ldGowLnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPUJyaWdodG9uXHUwMDI2dGVhbTI9TWFuK0NpdHlcdTAwMjZ0ZW1wbGF0ZT10ZWFtdnRlYW0tbGFuZHNjYXBlIn0.fZBnaHqWF31KBsxxGMq7cNa2J7bzWc8QcavFNpBCQ2s",
-        "mpdUrl": "https://fastlylive.stan.video/out/v1/live/live-5583308B/CENCxALL/timeline.mpd?aws.manifestfilter=video_codec%3Ah264%3Bvideo_height%3A1-1080",
-        "licenseServerUrl": "https://lic.drmtoday.com/license-proxy-widevine/cenc/",
-        "customData": "eyJ1c2VySWQiOiAiMDkxMTM0MjU0OTRiNDRkOGI4NTU4OTcwYTQ4ZjJiYWEiLCJzZXNzaW9uSWQiOiAiZXlKaGJHY2lPaUpJVXpJMU5pSXNJbXRwWkNJNkluQnBhMkZqYUhVaUxDSjBlWEFpT2lKS1YxUWlmUS5leUpwWVhRaU9qRTNOemN4TVRneU1UY3NJbVZ1ZENJNkltaGtJaXdpY0dsa0lqbzFOVGd6TXpBNExDSm1aV0YwSWpveU16UTBNVE01TnpVeE5qQTVOaXdpY0hWeVkyaGhjMlZ6SWpvd0xDSmhjSEFpT2lKVGRHRnVMVmRsWWlJc0lteHliaUk2TVRZeE1UQXlOVFk0TXpjeU1EUTNOakU0T0gwLnV5WmU0WWFyN09EZndtRzRyRC1UZDBaMFlCVWVMcTRKRlRRNlcwY2dqdEEiLCJtZXJjaGFudCI6ICJzdGFuIn0=",
-        "cachedAt": "25-04-2026 06:56 PM",
-        "scheduleLabel": "25-04-2026 05:50 PM"
       }
     ],
     "upcoming": [
@@ -50,21 +37,21 @@
         "scheduleLabel": "01-05-2026 01:55 AM"
       },
       {
-        "id": "6519240",
-        "title": "Shakhtar Donetsk v Crystal Palace - UEFA Conference League 2025/2026",
-        "liveStartDate": {
-          "WIB": "01-05-2026 01:55 AM"
-        },
-        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0YmRUdGQ5akNveFFJeEUuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dE9SeUxWNUtKOUgzQUdULmpwZ1x1MDAyNmNvbXBDb2xvcj0wMGJlMTRcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dGN3a0tZeDFNb3hueUx3LnBuZ1x1MDAyNmRlc2M9VUVDTCslRTIlODAlQTIrU0YrTGVnKzFcdTAwMjZoMT1Gb290YmFsbFx1MDAyNmgyPVVFRkErQ29uZmVyZW5jZStMZWFndWVcdTAwMjZsb2dvMT0lMkZjbXMlMkYyMDI1JTJGOSUyRmF0dHo3VlhYMEZjT3JZemFYLnBuZ1x1MDAyNmxvZ28yPSUyRmNtcyUyRjIwMjUlMkY5JTJGYXR0andON3A2Z09SNmtZOTIucG5nXHUwMDI2cGljPUZvb3RiYWxsXHUwMDI2dGVhbTE9U2hha2h0YXIrRG9uZXRza1x1MDAyNnRlYW0yPUNyeXN0YWwrUGFsYWNlXHUwMDI2dGVtcGxhdGU9dGVhbXZ0ZWFtLWxhbmRzY2FwZSJ9.phFi8VrLwzLP8RGGjGueFe4K_C7CEPZe_KmfEckjSq8",
-        "scheduleLabel": "01-05-2026 01:55 AM"
-      },
-      {
         "id": "6519239",
         "title": "Rayo Vallecano v Strasbourg - UEFA Conference League 2025/2026",
         "liveStartDate": {
           "WIB": "01-05-2026 01:55 AM"
         },
         "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0YmRUdGQ5akNveFFJeEUuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dE9SeUxWNUtKOUgzQUdULmpwZ1x1MDAyNmNvbXBDb2xvcj0wMGJlMTRcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dGN3a0tZeDFNb3hueUx3LnBuZ1x1MDAyNmRlc2M9VUVDTCslRTIlODAlQTIrU0YrTGVnKzFcdTAwMjZoMT1Gb290YmFsbFx1MDAyNmgyPVVFRkErQ29uZmVyZW5jZStMZWFndWVcdTAwMjZsb2dvMT0lMkZjbXMlMkYyMDI1JTJGOSUyRmF0dGFDUzJUQk5qaDFnNGQ1LnBuZ1x1MDAyNmxvZ28yPSUyRmNtcyUyRjIwMjUlMkY5JTJGYXR0NE56dVFUWFk2OXZwQ1kucG5nXHUwMDI2cGljPUZvb3RiYWxsXHUwMDI2dGVhbTE9UmF5bytWYWxsZWNhbm9cdTAwMjZ0ZWFtMj1TdHJhc2JvdXJnXHUwMDI2dGVtcGxhdGU9dGVhbXZ0ZWFtLWxhbmRzY2FwZSJ9.O0dJRGCUh3_bZHQBI7BjWl5Ij3e0cC02sTaQB8m_NRM",
+        "scheduleLabel": "01-05-2026 01:55 AM"
+      },
+      {
+        "id": "6519240",
+        "title": "Shakhtar Donetsk v Crystal Palace - UEFA Conference League 2025/2026",
+        "liveStartDate": {
+          "WIB": "01-05-2026 01:55 AM"
+        },
+        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0YmRUdGQ5akNveFFJeEUuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dE9SeUxWNUtKOUgzQUdULmpwZ1x1MDAyNmNvbXBDb2xvcj0wMGJlMTRcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dGN3a0tZeDFNb3hueUx3LnBuZ1x1MDAyNmRlc2M9VUVDTCslRTIlODAlQTIrU0YrTGVnKzFcdTAwMjZoMT1Gb290YmFsbFx1MDAyNmgyPVVFRkErQ29uZmVyZW5jZStMZWFndWVcdTAwMjZsb2dvMT0lMkZjbXMlMkYyMDI1JTJGOSUyRmF0dHo3VlhYMEZjT3JZemFYLnBuZ1x1MDAyNmxvZ28yPSUyRmNtcyUyRjIwMjUlMkY5JTJGYXR0andON3A2Z09SNmtZOTIucG5nXHUwMDI2cGljPUZvb3RiYWxsXHUwMDI2dGVhbTE9U2hha2h0YXIrRG9uZXRza1x1MDAyNnRlYW0yPUNyeXN0YWwrUGFsYWNlXHUwMDI2dGVtcGxhdGU9dGVhbXZ0ZWFtLWxhbmRzY2FwZSJ9.phFi8VrLwzLP8RGGjGueFe4K_C7CEPZe_KmfEckjSq8",
         "scheduleLabel": "01-05-2026 01:55 AM"
       },
       {
@@ -75,6 +62,15 @@
         },
         "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjYlMkYxJTJGYXR0NHE5ckZrM1hjS1JkcTYuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI2JTJGMSUyRmF0dFlVOWZLeVEwbElhQU9uLmpwZ1x1MDAyNmNvbXBDb2xvcj0wNUYwRkZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dDdvempyRzRZWW83ckZPLnBuZ1x1MDAyNmRlc2M9UHJlbWllcitMZWFndWUrJUUyJTgwJUEyK01XKzM1XHUwMDI2aDE9Rm9vdGJhbGxcdTAwMjZoMj1QcmVtaWVyK0xlYWd1ZVx1MDAyNmxvZ28xPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0eGNiY2JWTkN2ZEhPMlUucG5nXHUwMDI2bG9nbzI9JTJGY21zJTJGMjAyNSUyRjYlMkZhdHRhUE4zeHh4UWlIOFZ3VS5wbmdcdTAwMjZwaWM9Rm9vdGJhbGxcdTAwMjZ0ZWFtMT1MZWVkc1x1MDAyNnRlYW0yPUJ1cm5sZXlcdTAwMjZ0ZW1wbGF0ZT10ZWFtdnRlYW0tbGFuZHNjYXBlIn0.zibD6hJd4SNilk0um6i-hmLftziZQL0Tw17O1xlmtPg",
         "scheduleLabel": "02-05-2026 01:30 AM"
+      },
+      {
+        "id": "6355491",
+        "title": "Jeju v Jeonbuk - K League 2026",
+        "liveStartDate": {
+          "WIB": "02-05-2026 02:25 PM"
+        },
+        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY3JTJGYXR0REk4bmtzMDVHZXF1ZW8uanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dERGYzhuQnBud3BrU2tSLmpwZ1x1MDAyNmNvbXBDb2xvcj02MzYzNjNcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dEZlYmhQeFBIM3FCMnloLnBuZ1x1MDAyNmRlc2M9SytMZWFndWUrJUUyJTgwJUEyK01XKzExXHUwMDI2aDE9Rm9vdGJhbGxcdTAwMjZoMj1LK0xlYWd1ZVx1MDAyNmxvZ28xPSUyRmNtcyUyRjIwMjUlMkY3JTJGYXR0akZwcjNRcU51aXBUZEoucG5nXHUwMDI2bG9nbzI9JTJGY21zJTJGMjAyNSUyRjclMkZhdHRYeW4wd1g3aTZ2TVNQMC5wbmdcdTAwMjZwaWM9Rm9vdGJhbGxcdTAwMjZ0ZWFtMT1KZWp1XHUwMDI2dGVhbTI9SmVvbmJ1a1x1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.H1BCGzW-_-VY2lsRe4ueriwLBqehAB3lN8D9FpRh8do",
+        "scheduleLabel": "02-05-2026 02:25 PM"
       },
       {
         "id": "6358818",
