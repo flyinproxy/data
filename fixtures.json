@@ -1,17 +1,8 @@
 {
-  "lastRefresh": "27-04-2026 05:58 AM",
+  "lastRefresh": "27-04-2026 06:44 AM",
   "fixtures": {
     "live": [],
     "upcoming": [
-      {
-        "id": "6519264",
-        "title": "Nottingham Forest v Aston Villa - UEFA Europa League 2025/2026",
-        "liveStartDate": {
-          "WIB": "01-05-2026 01:55 AM"
-        },
-        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0cUhVZVBPWFdBUWJ0RWsuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dGVlMFZaak5xS3RkU2JmLmpwZ1x1MDAyNmNvbXBDb2xvcj1mZjY5MDBcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dDJNelYwbXlscXVDeFhsLnBuZ1x1MDAyNmRlc2M9VUVMKyVFMiU4MCVBMitTRitMZWcrMVx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9VUVGQStFdXJvcGErTGVhZ3VlXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNSUyRjklMkZhdHRyZWgyYU5qQjhrOEs5My5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI1JTJGOSUyRmF0dG04T1hkQTBHN2Y5eHZ1LnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPU5vdHQlMjdtK0ZvcmVzdFx1MDAyNnRlYW0yPUFzdG9uK1ZpbGxhXHUwMDI2dGVtcGxhdGU9dGVhbXZ0ZWFtLWxhbmRzY2FwZSJ9.wDFikmYCYwpPbnjMJGkF_tn4vb1MEo-WELAfXjgspw4",
-        "scheduleLabel": "01-05-2026 01:55 AM"
-      },
       {
         "id": "6519265",
         "title": "Sporting Braga v Freiburg - UEFA Europa League 2025/2026",
@@ -19,6 +10,15 @@
           "WIB": "01-05-2026 01:55 AM"
         },
         "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0cUhVZVBPWFdBUWJ0RWsuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dGVlMFZaak5xS3RkU2JmLmpwZ1x1MDAyNmNvbXBDb2xvcj1mZjY5MDBcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dDJNelYwbXlscXVDeFhsLnBuZ1x1MDAyNmRlc2M9VUVMKyVFMiU4MCVBMitTRitMZWcrMVx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9VUVGQStFdXJvcGErTGVhZ3VlXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNCUyRjklMkZhdHRlYUpLeVNTZDZJZXVpRi5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI1JTJGOSUyRmF0dE5zZWlGaHR2OEVhQnpaLnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPVNwb3J0aW5nK0JyYWdhXHUwMDI2dGVhbTI9RnJlaWJ1cmdcdTAwMjZ0ZW1wbGF0ZT10ZWFtdnRlYW0tbGFuZHNjYXBlIn0.n_6jdYsjktgCoNnxgoUP1n0ycSgSb_dQK8HxRvZvu3s",
+        "scheduleLabel": "01-05-2026 01:55 AM"
+      },
+      {
+        "id": "6519264",
+        "title": "Nottingham Forest v Aston Villa - UEFA Europa League 2025/2026",
+        "liveStartDate": {
+          "WIB": "01-05-2026 01:55 AM"
+        },
+        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0cUhVZVBPWFdBUWJ0RWsuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dGVlMFZaak5xS3RkU2JmLmpwZ1x1MDAyNmNvbXBDb2xvcj1mZjY5MDBcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dDJNelYwbXlscXVDeFhsLnBuZ1x1MDAyNmRlc2M9VUVMKyVFMiU4MCVBMitTRitMZWcrMVx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9VUVGQStFdXJvcGErTGVhZ3VlXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNSUyRjklMkZhdHRyZWgyYU5qQjhrOEs5My5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI1JTJGOSUyRmF0dG04T1hkQTBHN2Y5eHZ1LnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPU5vdHQlMjdtK0ZvcmVzdFx1MDAyNnRlYW0yPUFzdG9uK1ZpbGxhXHUwMDI2dGVtcGxhdGU9dGVhbXZ0ZWFtLWxhbmRzY2FwZSJ9.wDFikmYCYwpPbnjMJGkF_tn4vb1MEo-WELAfXjgspw4",
         "scheduleLabel": "01-05-2026 01:55 AM"
       },
       {
