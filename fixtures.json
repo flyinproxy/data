@@ -1,5 +1,5 @@
 {
-  "lastRefresh": "01-05-2026 06:49 AM",
+  "lastRefresh": "01-05-2026 09:39 AM",
   "fixtures": {
     "live": [],
     "upcoming": [
@@ -166,15 +166,6 @@
         "scheduleLabel": "03-05-2026 07:45 AM"
       },
       {
-        "id": "5487827",
-        "title": "AFC Bournemouth v Crystal Palace - Premier League 2025/2026",
-        "liveStartDate": {
-          "WIB": "03-05-2026 07:50 PM"
-        },
-        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjYlMkYxJTJGYXR0NHE5ckZrM1hjS1JkcTYuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI2JTJGMSUyRmF0dFlVOWZLeVEwbElhQU9uLmpwZ1x1MDAyNmNvbXBDb2xvcj0wNUYwRkZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dDdvempyRzRZWW83ckZPLnBuZ1x1MDAyNmRlc2M9UHJlbWllcitMZWFndWUrJUUyJTgwJUEyK01XKzM1XHUwMDI2aDE9Rm9vdGJhbGxcdTAwMjZoMj1QcmVtaWVyK0xlYWd1ZVx1MDAyNmxvZ28xPSUyRmNtcyUyRjIwMjUlMkY3JTJGYXR0M01qbTJMNmw2ZGpRN1cucG5nXHUwMDI2bG9nbzI9JTJGY21zJTJGMjAyNSUyRjYlMkZhdHQxTkNTZEwwNXNnelh0di5wbmdcdTAwMjZwaWM9Rm9vdGJhbGxcdTAwMjZ0ZWFtMT1Cb3VybmVtb3V0aFx1MDAyNnRlYW0yPUNyeXN0YWwrUGFsYWNlXHUwMDI2dGVtcGxhdGU9dGVhbXZ0ZWFtLWxhbmRzY2FwZSJ9.gMjdIULlEMJ6-EBYOoXkTmCIxcmjRjOpNJv5dcAeoEo",
-        "scheduleLabel": "03-05-2026 07:50 PM"
-      },
-      {
         "id": "5583218",
         "title": "Leicester City v Chelsea - WSL 2025/26",
         "liveStartDate": {
@@ -272,6 +263,15 @@
         },
         "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY3JTJGYXR0REk4bmtzMDVHZXF1ZW8uanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dERGYzhuQnBud3BrU2tSLmpwZ1x1MDAyNmNvbXBDb2xvcj02MzYzNjNcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dEZlYmhQeFBIM3FCMnloLnBuZ1x1MDAyNmRlc2M9SytMZWFndWUrJUUyJTgwJUEyK01XKzEyXHUwMDI2aDE9Rm9vdGJhbGxcdTAwMjZoMj1LK0xlYWd1ZVx1MDAyNmxvZ28xPSUyRmNtcyUyRjIwMjUlMkY3JTJGYXR0WHluMHdYN2k2dk1TUDAucG5nXHUwMDI2bG9nbzI9JTJGY21zJTJGMjAyNSUyRjclMkZhdHRXMG9yU0piZ3Vxd2ZacS5wbmdcdTAwMjZwaWM9Rm9vdGJhbGxcdTAwMjZ0ZWFtMT1KZW9uYnVrXHUwMDI2dGVhbTI9R3dhbmdqdVx1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.Tr1DmjCLfjnRy4ob65UG4VSKBX4mMSDSjXxzdOlhPRI",
         "scheduleLabel": "05-05-2026 11:55 AM"
+      },
+      {
+        "id": "6519206",
+        "title": "Arsenal v Atlético de Madrid - UEFA Champions League 2025/2026",
+        "liveStartDate": {
+          "WIB": "06-05-2026 01:55 AM"
+        },
+        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0SVNzY21SeHVVVHF2U3IuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dEdyVFh3OFpwbDFmcXl4LmpwZ1x1MDAyNmNvbXBDb2xvcj00MTFBQTZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGMTAlMkZhdHRBWjQ3dVN3SVZEaU1Ocy5wbmdcdTAwMjZkZXNjPVVDTCslRTIlODAlQTIrU0YrTGVnKzJcdTAwMjZoMT1Gb290YmFsbFx1MDAyNmgyPVVFRkErQ2hhbXBpb25zK0xlYWd1ZVx1MDAyNmxvZ28xPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0b24wQ0VRd1F3U3ZTS0IucG5nXHUwMDI2bG9nbzI9JTJGY21zJTJGMjAyNSUyRjklMkZhdHROekthQ09veUltSUxPZi5wbmdcdTAwMjZwaWM9Rm9vdGJhbGxcdTAwMjZ0ZWFtMT1BcnNlbmFsXHUwMDI2dGVhbTI9QXRsJUMzJUE5dGljb1x1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.7x_YyTrUsNlNaJP_GZXTviFqLTM_8deMRQr7dcBFo5U",
+        "scheduleLabel": "06-05-2026 01:55 AM"
       }
     ]
   }
