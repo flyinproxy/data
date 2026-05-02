@@ -1,5 +1,5 @@
 {
-  "lastRefresh": "02-05-2026 07:04 AM",
+  "lastRefresh": "02-05-2026 10:49 AM",
   "fixtures": {
     "live": [],
     "upcoming": [
@@ -22,15 +22,6 @@
         "scheduleLabel": "02-05-2026 05:50 PM"
       },
       {
-        "id": "6358818",
-        "title": "Houston Dash v Seattle Reign - NWSL 2026",
-        "liveStartDate": {
-          "WIB": "02-05-2026 07:01 AM"
-        },
-        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY3JTJGYXR0VnZEVlVubXpwczBhUWkuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dGE2Z0w1U2ZUaXJuN1FXLmpwZ1x1MDAyNmNvbXBDb2xvcj1ENTMzM0VcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dFVsMUNkRkNYMFBxeUQ5LnBuZ1x1MDAyNmRlc2M9TldTTCslRTIlODAlQTIrUjZcdTAwMjZoMT1Gb290YmFsbFx1MDAyNmgyPU5XU0xcdTAwMjZsb2dvMT0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dHVQYjFNa1o4QU5WTjdsLnBuZ1x1MDAyNmxvZ28yPSUyRmNtcyUyRjIwMjUlMkY3JTJGYXR0Wm4wTnhCR1hsWlhrMTcucG5nXHUwMDI2cGljPUZvb3RiYWxsXHUwMDI2dGVhbTE9SG91c3Rvblx1MDAyNnRlYW0yPVNlYXR0bGVcdTAwMjZ0ZW1wbGF0ZT10ZWFtdnRlYW0tbGFuZHNjYXBlIn0.2IXmPKYeqLzMzF8IWHvbQxwKv70xdJvjzvN0evjQOzE",
-        "scheduleLabel": "02-05-2026 07:01 AM"
-      },
-      {
         "id": "6354433",
         "title": "Goal Rush - 2 May Premier League 2025/26",
         "liveStartDate": {
@@ -49,21 +40,21 @@
         "scheduleLabel": "02-05-2026 08:50 PM"
       },
       {
-        "id": "5487910",
-        "title": "Wolverhampton Wanderers v Sunderland - Premier League 2025/2026",
-        "liveStartDate": {
-          "WIB": "02-05-2026 08:50 PM"
-        },
-        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjYlMkYxJTJGYXR0NHE5ckZrM1hjS1JkcTYuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI2JTJGMSUyRmF0dFlVOWZLeVEwbElhQU9uLmpwZ1x1MDAyNmNvbXBDb2xvcj0wNUYwRkZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dDdvempyRzRZWW83ckZPLnBuZ1x1MDAyNmRlc2M9UHJlbWllcitMZWFndWUrJUUyJTgwJUEyK01XKzM1XHUwMDI2aDE9Rm9vdGJhbGxcdTAwMjZoMj1QcmVtaWVyK0xlYWd1ZVx1MDAyNmxvZ28xPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0bFdBUWpHUDBaUm5va0cucG5nXHUwMDI2bG9nbzI9JTJGY21zJTJGMjAyNSUyRjYlMkZhdHRFQVZMQmZyRGVMTGI4cy5wbmdcdTAwMjZwaWM9Rm9vdGJhbGxcdTAwMjZ0ZWFtMT1Xb2x2ZXNcdTAwMjZ0ZWFtMj1TdW5kZXJsYW5kXHUwMDI2dGVtcGxhdGU9dGVhbXZ0ZWFtLWxhbmRzY2FwZSJ9.VcBKPDkbLVN0p_l1zCBQlDivquTWzdN1O_qdiZ5BCuA",
-        "scheduleLabel": "02-05-2026 08:50 PM"
-      },
-      {
         "id": "5487847",
         "title": "Brentford v West Ham United - Premier League 2025/2026",
         "liveStartDate": {
           "WIB": "02-05-2026 08:50 PM"
         },
         "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjYlMkYxJTJGYXR0NHE5ckZrM1hjS1JkcTYuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI2JTJGMSUyRmF0dFlVOWZLeVEwbElhQU9uLmpwZ1x1MDAyNmNvbXBDb2xvcj0wNUYwRkZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dDdvempyRzRZWW83ckZPLnBuZ1x1MDAyNmRlc2M9UHJlbWllcitMZWFndWUrJUUyJTgwJUEyK01XKzM1XHUwMDI2aDE9Rm9vdGJhbGxcdTAwMjZoMj1QcmVtaWVyK0xlYWd1ZVx1MDAyNmxvZ28xPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0QUlMRzJNRmYwd2QwTWMucG5nXHUwMDI2bG9nbzI9JTJGY21zJTJGMjAyNSUyRjYlMkZhdHRGRFdXdjlweDk3dW95ci5wbmdcdTAwMjZwaWM9Rm9vdGJhbGxcdTAwMjZ0ZWFtMT1CcmVudGZvcmRcdTAwMjZ0ZWFtMj1XZXN0K0hhbVx1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.qnyka9UI3E_U0ZSDuEu-KVhfjioTfBrhSmM6IaOK6Qc",
+        "scheduleLabel": "02-05-2026 08:50 PM"
+      },
+      {
+        "id": "5487910",
+        "title": "Wolverhampton Wanderers v Sunderland - Premier League 2025/2026",
+        "liveStartDate": {
+          "WIB": "02-05-2026 08:50 PM"
+        },
+        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjYlMkYxJTJGYXR0NHE5ckZrM1hjS1JkcTYuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI2JTJGMSUyRmF0dFlVOWZLeVEwbElhQU9uLmpwZ1x1MDAyNmNvbXBDb2xvcj0wNUYwRkZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dDdvempyRzRZWW83ckZPLnBuZ1x1MDAyNmRlc2M9UHJlbWllcitMZWFndWUrJUUyJTgwJUEyK01XKzM1XHUwMDI2aDE9Rm9vdGJhbGxcdTAwMjZoMj1QcmVtaWVyK0xlYWd1ZVx1MDAyNmxvZ28xPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0bFdBUWpHUDBaUm5va0cucG5nXHUwMDI2bG9nbzI9JTJGY21zJTJGMjAyNSUyRjYlMkZhdHRFQVZMQmZyRGVMTGI4cy5wbmdcdTAwMjZwaWM9Rm9vdGJhbGxcdTAwMjZ0ZWFtMT1Xb2x2ZXNcdTAwMjZ0ZWFtMj1TdW5kZXJsYW5kXHUwMDI2dGVtcGxhdGU9dGVhbXZ0ZWFtLWxhbmRzY2FwZSJ9.VcBKPDkbLVN0p_l1zCBQlDivquTWzdN1O_qdiZ5BCuA",
         "scheduleLabel": "02-05-2026 08:50 PM"
       },
       {
@@ -272,6 +263,15 @@
         },
         "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0SVNzY21SeHVVVHF2U3IuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dEdyVFh3OFpwbDFmcXl4LmpwZ1x1MDAyNmNvbXBDb2xvcj00MTFBQTZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGMTAlMkZhdHRBWjQ3dVN3SVZEaU1Ocy5wbmdcdTAwMjZkZXNjPVVDTCslRTIlODAlQTIrU0YrTGVnKzJcdTAwMjZoMT1Gb290YmFsbFx1MDAyNmgyPVVFRkErQ2hhbXBpb25zK0xlYWd1ZVx1MDAyNmxvZ28xPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0NmI2cHRBYkk0akNzZE0ucG5nXHUwMDI2bG9nbzI9JTJGY21zJTJGMjAyNCUyRjklMkZhdHR2NVBGcndrV1prd2ZFRy5wbmdcdTAwMjZwaWM9Rm9vdGJhbGxcdTAwMjZ0ZWFtMT1CYXllcm4rTXVuaWNoXHUwMDI2dGVhbTI9UFNHXHUwMDI2dGVtcGxhdGU9dGVhbXZ0ZWFtLWxhbmRzY2FwZSJ9.G3iLTkx_5nUe7MHW5F13Q6yZv3paVpo9Xcf3pQx0reQ",
         "scheduleLabel": "07-05-2026 01:00 AM"
+      },
+      {
+        "id": "5583133",
+        "title": "Brighton & Hove Albion v Arsenal - WSL 2025/26",
+        "liveStartDate": {
+          "WIB": "07-05-2026 01:35 AM"
+        },
+        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY4JTJGYXR0MEpKM0EzeW11dWFYY2cuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGOCUyRmF0dGkxbmR3R3BGaHlpZGNkLmpwZ1x1MDAyNmNvbXBDb2xvcj1iNTllNWZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGOCUyRmF0dDg3anVQVVhiRERScTNJLnBuZ1x1MDAyNmRlc2M9V1NMKyVFMiU4MCVBMitNVysxNlx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9V1NMXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNSUyRjglMkZhdHRJNzhseHdKRUJUUWtydy5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI1JTJGOCUyRmF0dHpaZzhDamswclBIMHRzLnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPUJyaWdodG9uXHUwMDI2dGVhbTI9QXJzZW5hbFx1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ._OVW82RDs07vtPk243E2vkPQn8yXlkORu1Uzxg9gQBY",
+        "scheduleLabel": "07-05-2026 01:35 AM"
       }
     ]
   }
