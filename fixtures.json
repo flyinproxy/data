@@ -1,5 +1,5 @@
 {
-  "lastRefresh": "04-05-2026 03:24 AM",
+  "lastRefresh": "04-05-2026 04:08 AM",
   "fixtures": {
     "live": [],
     "upcoming": [
@@ -29,15 +29,6 @@
         },
         "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjYlMkYxJTJGYXR0NHE5ckZrM1hjS1JkcTYuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI2JTJGMSUyRmF0dFlVOWZLeVEwbElhQU9uLmpwZ1x1MDAyNmNvbXBDb2xvcj0wNUYwRkZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dDdvempyRzRZWW83ckZPLnBuZ1x1MDAyNmRlc2M9UHJlbWllcitMZWFndWUrJUUyJTgwJUEyK01XKzM1XHUwMDI2aDE9Rm9vdGJhbGxcdTAwMjZoMj1QcmVtaWVyK0xlYWd1ZVx1MDAyNmxvZ28xPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0U1hSNlcxT2RyeEtBOTYucG5nXHUwMDI2bG9nbzI9JTJGY21zJTJGMjAyNSUyRjYlMkZhdHRDYUNYcDE1VUpKQ1pEVy5wbmdcdTAwMjZwaWM9Rm9vdGJhbGxcdTAwMjZ0ZWFtMT1DaGVsc2VhXHUwMDI2dGVhbTI9Tm90dCUyN20rRm9yZXN0XHUwMDI2dGVtcGxhdGU9dGVhbXZ0ZWFtLWxhbmRzY2FwZSJ9.f7thLxB4AM5VJ7GgQ86TCfoPfVUta24BvT1U6vNYVsc",
         "scheduleLabel": "04-05-2026 08:30 PM"
-      },
-      {
-        "id": "5487887",
-        "title": "Aston Villa v Tottenham Hotspur - Premier League 2025/2026",
-        "liveStartDate": {
-          "WIB": "04-05-2026 12:02 AM"
-        },
-        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjYlMkYxJTJGYXR0NHE5ckZrM1hjS1JkcTYuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI2JTJGMSUyRmF0dFlVOWZLeVEwbElhQU9uLmpwZ1x1MDAyNmNvbXBDb2xvcj0wNUYwRkZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dDdvempyRzRZWW83ckZPLnBuZ1x1MDAyNmRlc2M9UHJlbWllcitMZWFndWUrJUUyJTgwJUEyK01XKzM1XHUwMDI2aDE9Rm9vdGJhbGxcdTAwMjZoMj1QcmVtaWVyK0xlYWd1ZVx1MDAyNmxvZ28xPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0WFMyNTRMeUFHWldkTW8ucG5nXHUwMDI2bG9nbzI9JTJGY21zJTJGMjAyNSUyRjYlMkZhdHRiQXV3Sk1VTlFQQXZJZS5wbmdcdTAwMjZwaWM9Rm9vdGJhbGxcdTAwMjZ0ZWFtMT1Bc3RvbitWaWxsYVx1MDAyNnRlYW0yPVNwdXJzXHUwMDI2dGVtcGxhdGU9dGVhbXZ0ZWFtLWxhbmRzY2FwZSJ9.T4pLti_BBKnW5eeBy22YeO54kEWDZsXkZ0FUG96quHA",
-        "scheduleLabel": "04-05-2026 12:02 AM"
       },
       {
         "id": "5487815",
@@ -121,21 +112,21 @@
         "scheduleLabel": "08-05-2026 01:55 AM"
       },
       {
-        "id": "6519242",
-        "title": "Crystal Palace v Shakhtar Donetsk - UEFA Conference League 2025/2026",
-        "liveStartDate": {
-          "WIB": "08-05-2026 03:55 AM"
-        },
-        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0YmRUdGQ5akNveFFJeEUuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dE9SeUxWNUtKOUgzQUdULmpwZ1x1MDAyNmNvbXBDb2xvcj0wMGJlMTRcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dGN3a0tZeDFNb3hueUx3LnBuZ1x1MDAyNmRlc2M9VUVDTCslRTIlODAlQTIrU0YrTGVnKzJcdTAwMjZoMT1Gb290YmFsbFx1MDAyNmgyPVVFRkErQ29uZmVyZW5jZStMZWFndWVcdTAwMjZsb2dvMT0lMkZjbXMlMkYyMDI1JTJGOSUyRmF0dGp3TjdwNmdPUjZrWTkyLnBuZ1x1MDAyNmxvZ28yPSUyRmNtcyUyRjIwMjUlMkY5JTJGYXR0ejdWWFgwRmNPcll6YVgucG5nXHUwMDI2cGljPUZvb3RiYWxsXHUwMDI2dGVhbTE9Q3J5c3RhbCtQYWxhY2VcdTAwMjZ0ZWFtMj1TaGFraHRhcitEb25ldHNrXHUwMDI2dGVtcGxhdGU9dGVhbXZ0ZWFtLWxhbmRzY2FwZSJ9.7RVnSe7BH2_2ojoPNs0XG5M8ajXWurEugW7kG8VYMY8",
-        "scheduleLabel": "08-05-2026 03:55 AM"
-      },
-      {
         "id": "6519241",
         "title": "Strasbourg v Rayo Vallecano - UEFA Conference League 2025/2026",
         "liveStartDate": {
           "WIB": "08-05-2026 03:55 AM"
         },
         "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0YmRUdGQ5akNveFFJeEUuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dE9SeUxWNUtKOUgzQUdULmpwZ1x1MDAyNmNvbXBDb2xvcj0wMGJlMTRcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dGN3a0tZeDFNb3hueUx3LnBuZ1x1MDAyNmRlc2M9VUVDTCslRTIlODAlQTIrU0YrTGVnKzJcdTAwMjZoMT1Gb290YmFsbFx1MDAyNmgyPVVFRkErQ29uZmVyZW5jZStMZWFndWVcdTAwMjZsb2dvMT0lMkZjbXMlMkYyMDI1JTJGOSUyRmF0dDROenVRVFhZNjl2cENZLnBuZ1x1MDAyNmxvZ28yPSUyRmNtcyUyRjIwMjUlMkY5JTJGYXR0YUNTMlRCTmpoMWc0ZDUucG5nXHUwMDI2cGljPUZvb3RiYWxsXHUwMDI2dGVhbTE9U3RyYXNib3VyZ1x1MDAyNnRlYW0yPVJheW8rVmFsbGVjYW5vXHUwMDI2dGVtcGxhdGU9dGVhbXZ0ZWFtLWxhbmRzY2FwZSJ9.a4AyLnqWfGcAY0q9WOYoet0W-vO-JdIgNm_c7WEQbG4",
+        "scheduleLabel": "08-05-2026 03:55 AM"
+      },
+      {
+        "id": "6519242",
+        "title": "Crystal Palace v Shakhtar Donetsk - UEFA Conference League 2025/2026",
+        "liveStartDate": {
+          "WIB": "08-05-2026 03:55 AM"
+        },
+        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0YmRUdGQ5akNveFFJeEUuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dE9SeUxWNUtKOUgzQUdULmpwZ1x1MDAyNmNvbXBDb2xvcj0wMGJlMTRcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dGN3a0tZeDFNb3hueUx3LnBuZ1x1MDAyNmRlc2M9VUVDTCslRTIlODAlQTIrU0YrTGVnKzJcdTAwMjZoMT1Gb290YmFsbFx1MDAyNmgyPVVFRkErQ29uZmVyZW5jZStMZWFndWVcdTAwMjZsb2dvMT0lMkZjbXMlMkYyMDI1JTJGOSUyRmF0dGp3TjdwNmdPUjZrWTkyLnBuZ1x1MDAyNmxvZ28yPSUyRmNtcyUyRjIwMjUlMkY5JTJGYXR0ejdWWFgwRmNPcll6YVgucG5nXHUwMDI2cGljPUZvb3RiYWxsXHUwMDI2dGVhbTE9Q3J5c3RhbCtQYWxhY2VcdTAwMjZ0ZWFtMj1TaGFraHRhcitEb25ldHNrXHUwMDI2dGVtcGxhdGU9dGVhbXZ0ZWFtLWxhbmRzY2FwZSJ9.7RVnSe7BH2_2ojoPNs0XG5M8ajXWurEugW7kG8VYMY8",
         "scheduleLabel": "08-05-2026 03:55 AM"
       },
       {
@@ -184,12 +175,12 @@
         "scheduleLabel": "09-05-2026 07:55 AM"
       },
       {
-        "id": "5487938",
-        "title": "Fulham v AFC Bournemouth - Premier League 2025/2026",
+        "id": "5487883",
+        "title": "Sunderland v Manchester United - Premier League 2025/2026",
         "liveStartDate": {
           "WIB": "09-05-2026 08:50 PM"
         },
-        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjYlMkYxJTJGYXR0NHE5ckZrM1hjS1JkcTYuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI2JTJGMSUyRmF0dFlVOWZLeVEwbElhQU9uLmpwZ1x1MDAyNmNvbXBDb2xvcj0wNUYwRkZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dDdvempyRzRZWW83ckZPLnBuZ1x1MDAyNmRlc2M9UHJlbWllcitMZWFndWUrJUUyJTgwJUEyK01XKzM2XHUwMDI2aDE9Rm9vdGJhbGxcdTAwMjZoMj1QcmVtaWVyK0xlYWd1ZVx1MDAyNmxvZ28xPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0NUlTSWtuaXRydWF1OTAucG5nXHUwMDI2bG9nbzI9JTJGY21zJTJGMjAyNSUyRjclMkZhdHQzTWptMkw2bDZkalE3Vy5wbmdcdTAwMjZwaWM9Rm9vdGJhbGxcdTAwMjZ0ZWFtMT1GdWxoYW1cdTAwMjZ0ZWFtMj1Cb3VybmVtb3V0aFx1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.jQpLQu2fLSE3yzPizrjPjeYzzyTZCz-icxaXwpw1wmQ",
+        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjYlMkYxJTJGYXR0NHE5ckZrM1hjS1JkcTYuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI2JTJGMSUyRmF0dFlVOWZLeVEwbElhQU9uLmpwZ1x1MDAyNmNvbXBDb2xvcj0wNUYwRkZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dDdvempyRzRZWW83ckZPLnBuZ1x1MDAyNmRlc2M9UHJlbWllcitMZWFndWUrJUUyJTgwJUEyK01XKzM2XHUwMDI2aDE9Rm9vdGJhbGxcdTAwMjZoMj1QcmVtaWVyK0xlYWd1ZVx1MDAyNmxvZ28xPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0RUFWTEJmckRlTExiOHMucG5nXHUwMDI2bG9nbzI9JTJGY21zJTJGMjAyNSUyRjYlMkZhdHRzNWRXdTY4eWFpY09QUy5wbmdcdTAwMjZwaWM9Rm9vdGJhbGxcdTAwMjZ0ZWFtMT1TdW5kZXJsYW5kXHUwMDI2dGVhbTI9TWFuK1VuaXRlZFx1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.1L0RJ_KqE510Q9SCmwqlvHnGru6Jhr3SMZw3KKKAmxw",
         "scheduleLabel": "09-05-2026 08:50 PM"
       },
       {
@@ -202,12 +193,12 @@
         "scheduleLabel": "09-05-2026 08:50 PM"
       },
       {
-        "id": "5487883",
-        "title": "Sunderland v Manchester United - Premier League 2025/2026",
+        "id": "5487938",
+        "title": "Fulham v AFC Bournemouth - Premier League 2025/2026",
         "liveStartDate": {
           "WIB": "09-05-2026 08:50 PM"
         },
-        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjYlMkYxJTJGYXR0NHE5ckZrM1hjS1JkcTYuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI2JTJGMSUyRmF0dFlVOWZLeVEwbElhQU9uLmpwZ1x1MDAyNmNvbXBDb2xvcj0wNUYwRkZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dDdvempyRzRZWW83ckZPLnBuZ1x1MDAyNmRlc2M9UHJlbWllcitMZWFndWUrJUUyJTgwJUEyK01XKzM2XHUwMDI2aDE9Rm9vdGJhbGxcdTAwMjZoMj1QcmVtaWVyK0xlYWd1ZVx1MDAyNmxvZ28xPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0RUFWTEJmckRlTExiOHMucG5nXHUwMDI2bG9nbzI9JTJGY21zJTJGMjAyNSUyRjYlMkZhdHRzNWRXdTY4eWFpY09QUy5wbmdcdTAwMjZwaWM9Rm9vdGJhbGxcdTAwMjZ0ZWFtMT1TdW5kZXJsYW5kXHUwMDI2dGVhbTI9TWFuK1VuaXRlZFx1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.1L0RJ_KqE510Q9SCmwqlvHnGru6Jhr3SMZw3KKKAmxw",
+        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjYlMkYxJTJGYXR0NHE5ckZrM1hjS1JkcTYuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI2JTJGMSUyRmF0dFlVOWZLeVEwbElhQU9uLmpwZ1x1MDAyNmNvbXBDb2xvcj0wNUYwRkZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dDdvempyRzRZWW83ckZPLnBuZ1x1MDAyNmRlc2M9UHJlbWllcitMZWFndWUrJUUyJTgwJUEyK01XKzM2XHUwMDI2aDE9Rm9vdGJhbGxcdTAwMjZoMj1QcmVtaWVyK0xlYWd1ZVx1MDAyNmxvZ28xPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0NUlTSWtuaXRydWF1OTAucG5nXHUwMDI2bG9nbzI9JTJGY21zJTJGMjAyNSUyRjclMkZhdHQzTWptMkw2bDZkalE3Vy5wbmdcdTAwMjZwaWM9Rm9vdGJhbGxcdTAwMjZ0ZWFtMT1GdWxoYW1cdTAwMjZ0ZWFtMj1Cb3VybmVtb3V0aFx1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.jQpLQu2fLSE3yzPizrjPjeYzzyTZCz-icxaXwpw1wmQ",
         "scheduleLabel": "09-05-2026 08:50 PM"
       },
       {
@@ -272,6 +263,15 @@
         },
         "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY3JTJGYXR0VnZEVlVubXpwczBhUWkuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dGE2Z0w1U2ZUaXJuN1FXLmpwZ1x1MDAyNmNvbXBDb2xvcj1ENTMzM0VcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dFVsMUNkRkNYMFBxeUQ5LnBuZ1x1MDAyNmRlc2M9TldTTCslRTIlODAlQTIrUjdcdTAwMjZoMT1Gb290YmFsbFx1MDAyNmgyPU5XU0xcdTAwMjZsb2dvMT0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dHVQYjFNa1o4QU5WTjdsLnBuZ1x1MDAyNmxvZ28yPSUyRmNtcyUyRjIwMjYlMkYzJTJGYXR0ZktEUEU4UUg4WGI3RHYucG5nXHUwMDI2cGljPUZvb3RiYWxsXHUwMDI2dGVhbTE9SG91c3Rvblx1MDAyNnRlYW0yPURlbnZlcitTdW1taXRcdTAwMjZ0ZW1wbGF0ZT10ZWFtdnRlYW0tbGFuZHNjYXBlIn0.sHpnsCzCpBaP4EijbyZV4GI0bear95SMG8_5zA_WQpc",
         "scheduleLabel": "10-05-2026 07:55 AM"
+      },
+      {
+        "id": "6355489",
+        "title": "Ulsan v Bucheon - K League 2026",
+        "liveStartDate": {
+          "WIB": "10-05-2026 11:55 AM"
+        },
+        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY3JTJGYXR0REk4bmtzMDVHZXF1ZW8uanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dERGYzhuQnBud3BrU2tSLmpwZ1x1MDAyNmNvbXBDb2xvcj02MzYzNjNcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dEZlYmhQeFBIM3FCMnloLnBuZ1x1MDAyNmRlc2M9SytMZWFndWUrJUUyJTgwJUEyK01XKzEzXHUwMDI2aDE9Rm9vdGJhbGxcdTAwMjZoMj1LK0xlYWd1ZVx1MDAyNmxvZ28xPSUyRmNtcyUyRjIwMjUlMkY3JTJGYXR0UHBSUFY2TEJ6dWRNS0QucG5nXHUwMDI2bG9nbzI9JTJGY21zJTJGMjAyNSUyRjEyJTJGYXR0WFFhM2R3dHliTUlrb0kucG5nXHUwMDI2cGljPUZvb3RiYWxsXHUwMDI2dGVhbTE9VWxzYW5cdTAwMjZ0ZWFtMj1CdWNoZW9uK0ZDXHUwMDI2dGVtcGxhdGU9dGVhbXZ0ZWFtLWxhbmRzY2FwZSJ9.0hwJQdDB1_Up8jd_Hgq2pjmktF58eM9cYOHyWnRJ0cA",
+        "scheduleLabel": "10-05-2026 11:55 AM"
       }
     ]
   }
