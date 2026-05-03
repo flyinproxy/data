@@ -1,5 +1,5 @@
 {
-  "lastRefresh": "04-05-2026 04:59 AM",
+  "lastRefresh": "04-05-2026 05:54 AM",
   "fixtures": {
     "live": [],
     "upcoming": [
@@ -85,15 +85,6 @@
         "scheduleLabel": "07-05-2026 01:35 AM"
       },
       {
-        "id": "6519266",
-        "title": "Freiburg v Sporting Braga - UEFA Europa League 2025/2026",
-        "liveStartDate": {
-          "WIB": "08-05-2026 01:55 AM"
-        },
-        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0cUhVZVBPWFdBUWJ0RWsuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dGVlMFZaak5xS3RkU2JmLmpwZ1x1MDAyNmNvbXBDb2xvcj1mZjY5MDBcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dDJNelYwbXlscXVDeFhsLnBuZ1x1MDAyNmRlc2M9VUVMKyVFMiU4MCVBMitTRitMZWcrMlx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9VUVGQStFdXJvcGErTGVhZ3VlXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNSUyRjklMkZhdHROc2VpRmh0djhFYUJ6Wi5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dGVhSkt5U1NkNklldWlGLnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPUZyZWlidXJnXHUwMDI2dGVhbTI9U3BvcnRpbmcrQnJhZ2FcdTAwMjZ0ZW1wbGF0ZT10ZWFtdnRlYW0tbGFuZHNjYXBlIn0.qxPWt6DGQsaqr391TRCTkB9wn5kTF_q81LUu_U3mjU0",
-        "scheduleLabel": "08-05-2026 01:55 AM"
-      },
-      {
         "id": "6519268",
         "title": "Aston Villa v Nottingham Forest - UEFA Europa League 2025/2026",
         "liveStartDate": {
@@ -103,13 +94,13 @@
         "scheduleLabel": "08-05-2026 01:55 AM"
       },
       {
-        "id": "6519241",
-        "title": "Strasbourg v Rayo Vallecano - UEFA Conference League 2025/2026",
+        "id": "6519266",
+        "title": "Freiburg v Sporting Braga - UEFA Europa League 2025/2026",
         "liveStartDate": {
-          "WIB": "08-05-2026 03:55 AM"
+          "WIB": "08-05-2026 01:55 AM"
         },
-        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0YmRUdGQ5akNveFFJeEUuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dE9SeUxWNUtKOUgzQUdULmpwZ1x1MDAyNmNvbXBDb2xvcj0wMGJlMTRcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dGN3a0tZeDFNb3hueUx3LnBuZ1x1MDAyNmRlc2M9VUVDTCslRTIlODAlQTIrU0YrTGVnKzJcdTAwMjZoMT1Gb290YmFsbFx1MDAyNmgyPVVFRkErQ29uZmVyZW5jZStMZWFndWVcdTAwMjZsb2dvMT0lMkZjbXMlMkYyMDI1JTJGOSUyRmF0dDROenVRVFhZNjl2cENZLnBuZ1x1MDAyNmxvZ28yPSUyRmNtcyUyRjIwMjUlMkY5JTJGYXR0YUNTMlRCTmpoMWc0ZDUucG5nXHUwMDI2cGljPUZvb3RiYWxsXHUwMDI2dGVhbTE9U3RyYXNib3VyZ1x1MDAyNnRlYW0yPVJheW8rVmFsbGVjYW5vXHUwMDI2dGVtcGxhdGU9dGVhbXZ0ZWFtLWxhbmRzY2FwZSJ9.a4AyLnqWfGcAY0q9WOYoet0W-vO-JdIgNm_c7WEQbG4",
-        "scheduleLabel": "08-05-2026 03:55 AM"
+        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0cUhVZVBPWFdBUWJ0RWsuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dGVlMFZaak5xS3RkU2JmLmpwZ1x1MDAyNmNvbXBDb2xvcj1mZjY5MDBcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dDJNelYwbXlscXVDeFhsLnBuZ1x1MDAyNmRlc2M9VUVMKyVFMiU4MCVBMitTRitMZWcrMlx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9VUVGQStFdXJvcGErTGVhZ3VlXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNSUyRjklMkZhdHROc2VpRmh0djhFYUJ6Wi5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dGVhSkt5U1NkNklldWlGLnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPUZyZWlidXJnXHUwMDI2dGVhbTI9U3BvcnRpbmcrQnJhZ2FcdTAwMjZ0ZW1wbGF0ZT10ZWFtdnRlYW0tbGFuZHNjYXBlIn0.qxPWt6DGQsaqr391TRCTkB9wn5kTF_q81LUu_U3mjU0",
+        "scheduleLabel": "08-05-2026 01:55 AM"
       },
       {
         "id": "6519242",
@@ -118,6 +109,15 @@
           "WIB": "08-05-2026 03:55 AM"
         },
         "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0YmRUdGQ5akNveFFJeEUuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dE9SeUxWNUtKOUgzQUdULmpwZ1x1MDAyNmNvbXBDb2xvcj0wMGJlMTRcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dGN3a0tZeDFNb3hueUx3LnBuZ1x1MDAyNmRlc2M9VUVDTCslRTIlODAlQTIrU0YrTGVnKzJcdTAwMjZoMT1Gb290YmFsbFx1MDAyNmgyPVVFRkErQ29uZmVyZW5jZStMZWFndWVcdTAwMjZsb2dvMT0lMkZjbXMlMkYyMDI1JTJGOSUyRmF0dGp3TjdwNmdPUjZrWTkyLnBuZ1x1MDAyNmxvZ28yPSUyRmNtcyUyRjIwMjUlMkY5JTJGYXR0ejdWWFgwRmNPcll6YVgucG5nXHUwMDI2cGljPUZvb3RiYWxsXHUwMDI2dGVhbTE9Q3J5c3RhbCtQYWxhY2VcdTAwMjZ0ZWFtMj1TaGFraHRhcitEb25ldHNrXHUwMDI2dGVtcGxhdGU9dGVhbXZ0ZWFtLWxhbmRzY2FwZSJ9.7RVnSe7BH2_2ojoPNs0XG5M8ajXWurEugW7kG8VYMY8",
+        "scheduleLabel": "08-05-2026 03:55 AM"
+      },
+      {
+        "id": "6519241",
+        "title": "Strasbourg v Rayo Vallecano - UEFA Conference League 2025/2026",
+        "liveStartDate": {
+          "WIB": "08-05-2026 03:55 AM"
+        },
+        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0YmRUdGQ5akNveFFJeEUuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dE9SeUxWNUtKOUgzQUdULmpwZ1x1MDAyNmNvbXBDb2xvcj0wMGJlMTRcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dGN3a0tZeDFNb3hueUx3LnBuZ1x1MDAyNmRlc2M9VUVDTCslRTIlODAlQTIrU0YrTGVnKzJcdTAwMjZoMT1Gb290YmFsbFx1MDAyNmgyPVVFRkErQ29uZmVyZW5jZStMZWFndWVcdTAwMjZsb2dvMT0lMkZjbXMlMkYyMDI1JTJGOSUyRmF0dDROenVRVFhZNjl2cENZLnBuZ1x1MDAyNmxvZ28yPSUyRmNtcyUyRjIwMjUlMkY5JTJGYXR0YUNTMlRCTmpoMWc0ZDUucG5nXHUwMDI2cGljPUZvb3RiYWxsXHUwMDI2dGVhbTE9U3RyYXNib3VyZ1x1MDAyNnRlYW0yPVJheW8rVmFsbGVjYW5vXHUwMDI2dGVtcGxhdGU9dGVhbXZ0ZWFtLWxhbmRzY2FwZSJ9.a4AyLnqWfGcAY0q9WOYoet0W-vO-JdIgNm_c7WEQbG4",
         "scheduleLabel": "08-05-2026 03:55 AM"
       },
       {
@@ -166,21 +166,21 @@
         "scheduleLabel": "09-05-2026 07:55 AM"
       },
       {
-        "id": "5487883",
-        "title": "Sunderland v Manchester United - Premier League 2025/2026",
-        "liveStartDate": {
-          "WIB": "09-05-2026 08:50 PM"
-        },
-        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjYlMkYxJTJGYXR0NHE5ckZrM1hjS1JkcTYuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI2JTJGMSUyRmF0dFlVOWZLeVEwbElhQU9uLmpwZ1x1MDAyNmNvbXBDb2xvcj0wNUYwRkZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dDdvempyRzRZWW83ckZPLnBuZ1x1MDAyNmRlc2M9UHJlbWllcitMZWFndWUrJUUyJTgwJUEyK01XKzM2XHUwMDI2aDE9Rm9vdGJhbGxcdTAwMjZoMj1QcmVtaWVyK0xlYWd1ZVx1MDAyNmxvZ28xPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0RUFWTEJmckRlTExiOHMucG5nXHUwMDI2bG9nbzI9JTJGY21zJTJGMjAyNSUyRjYlMkZhdHRzNWRXdTY4eWFpY09QUy5wbmdcdTAwMjZwaWM9Rm9vdGJhbGxcdTAwMjZ0ZWFtMT1TdW5kZXJsYW5kXHUwMDI2dGVhbTI9TWFuK1VuaXRlZFx1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.1L0RJ_KqE510Q9SCmwqlvHnGru6Jhr3SMZw3KKKAmxw",
-        "scheduleLabel": "09-05-2026 08:50 PM"
-      },
-      {
         "id": "5487912",
         "title": "Brighton & Hove Albion v Wolverhampton Wanderers - Premier League 2025/2026",
         "liveStartDate": {
           "WIB": "09-05-2026 08:50 PM"
         },
         "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjYlMkYxJTJGYXR0NHE5ckZrM1hjS1JkcTYuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI2JTJGMSUyRmF0dFlVOWZLeVEwbElhQU9uLmpwZ1x1MDAyNmNvbXBDb2xvcj0wNUYwRkZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dDdvempyRzRZWW83ckZPLnBuZ1x1MDAyNmRlc2M9UHJlbWllcitMZWFndWUrJUUyJTgwJUEyK01XKzM2XHUwMDI2aDE9Rm9vdGJhbGxcdTAwMjZoMj1QcmVtaWVyK0xlYWd1ZVx1MDAyNmxvZ28xPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0THN1b3liTFpjT1VJem4ucG5nXHUwMDI2bG9nbzI9JTJGY21zJTJGMjAyNSUyRjYlMkZhdHRsV0FRakdQMFpSbm9rRy5wbmdcdTAwMjZwaWM9Rm9vdGJhbGxcdTAwMjZ0ZWFtMT1CcmlnaHRvblx1MDAyNnRlYW0yPVdvbHZlc1x1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.N-J4IxpmBMj8HxbaoE0eSx4GBhi8h4UX80NcHJ0QbUU",
+        "scheduleLabel": "09-05-2026 08:50 PM"
+      },
+      {
+        "id": "5487883",
+        "title": "Sunderland v Manchester United - Premier League 2025/2026",
+        "liveStartDate": {
+          "WIB": "09-05-2026 08:50 PM"
+        },
+        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjYlMkYxJTJGYXR0NHE5ckZrM1hjS1JkcTYuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI2JTJGMSUyRmF0dFlVOWZLeVEwbElhQU9uLmpwZ1x1MDAyNmNvbXBDb2xvcj0wNUYwRkZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dDdvempyRzRZWW83ckZPLnBuZ1x1MDAyNmRlc2M9UHJlbWllcitMZWFndWUrJUUyJTgwJUEyK01XKzM2XHUwMDI2aDE9Rm9vdGJhbGxcdTAwMjZoMj1QcmVtaWVyK0xlYWd1ZVx1MDAyNmxvZ28xPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0RUFWTEJmckRlTExiOHMucG5nXHUwMDI2bG9nbzI9JTJGY21zJTJGMjAyNSUyRjYlMkZhdHRzNWRXdTY4eWFpY09QUy5wbmdcdTAwMjZwaWM9Rm9vdGJhbGxcdTAwMjZ0ZWFtMT1TdW5kZXJsYW5kXHUwMDI2dGVhbTI9TWFuK1VuaXRlZFx1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.1L0RJ_KqE510Q9SCmwqlvHnGru6Jhr3SMZw3KKKAmxw",
         "scheduleLabel": "09-05-2026 08:50 PM"
       },
       {
