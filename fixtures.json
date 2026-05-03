@@ -1,17 +1,8 @@
 {
-  "lastRefresh": "03-05-2026 06:26 AM",
+  "lastRefresh": "03-05-2026 07:07 AM",
   "fixtures": {
     "live": [],
     "upcoming": [
-      {
-        "id": "6358814",
-        "title": "Orlando Pride v Washington Spirit - NWSL 2026",
-        "liveStartDate": {
-          "WIB": "03-05-2026 04:30 AM"
-        },
-        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY3JTJGYXR0VnZEVlVubXpwczBhUWkuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dGE2Z0w1U2ZUaXJuN1FXLmpwZ1x1MDAyNmNvbXBDb2xvcj1ENTMzM0VcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dFVsMUNkRkNYMFBxeUQ5LnBuZ1x1MDAyNmRlc2M9TldTTCslRTIlODAlQTIrUjZcdTAwMjZoMT1Gb290YmFsbFx1MDAyNmgyPU5XU0xcdTAwMjZsb2dvMT0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dFd3bFdCN1VUTUR3ZFBBLnBuZ1x1MDAyNmxvZ28yPSUyRmNtcyUyRjIwMjUlMkY3JTJGYXR0NHp2Qk0wa1luenFSdk4ucG5nXHUwMDI2cGljPUZvb3RiYWxsXHUwMDI2dGVhbTE9T3JsYW5kb1x1MDAyNnRlYW0yPVdhc2hpbmd0b25cdTAwMjZ0ZW1wbGF0ZT10ZWFtdnRlYW0tbGFuZHNjYXBlIn0.ve0GESLJrXnY2TcI3tch8PbdSOLZAm7FefoBcRvoVIc",
-        "scheduleLabel": "03-05-2026 04:30 AM"
-      },
       {
         "id": "6358812",
         "title": "NC Courage v KC Current - NWSL 2026",
@@ -22,21 +13,21 @@
         "scheduleLabel": "03-05-2026 05:25 AM"
       },
       {
-        "id": "5583171",
-        "title": "Tottenham Hotspur v London City Lionesses - WSL 2025/26",
-        "liveStartDate": {
-          "WIB": "03-05-2026 05:50 PM"
-        },
-        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY4JTJGYXR0MEpKM0EzeW11dWFYY2cuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGOCUyRmF0dGkxbmR3R3BGaHlpZGNkLmpwZ1x1MDAyNmNvbXBDb2xvcj1iNTllNWZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGOCUyRmF0dDg3anVQVVhiRERScTNJLnBuZ1x1MDAyNmRlc2M9V1NMKyVFMiU4MCVBMitNVysyMVx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9V1NMXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNSUyRjklMkZhdHRWYmtnOVREaW42YmVEVS5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI1JTJGOCUyRmF0dGVveld6WXBvYkdTbW5jLnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPVNwdXJzXHUwMDI2dGVhbTI9TG9uZG9uK0NpdHlcdTAwMjZ0ZW1wbGF0ZT10ZWFtdnRlYW0tbGFuZHNjYXBlIn0.IWBQ97RyyKAUgs4mxgKo7i5Ehw1bR8MImt5AXl7oDXw",
-        "scheduleLabel": "03-05-2026 05:50 PM"
-      },
-      {
         "id": "5583128",
         "title": "Manchester City v Liverpool - WSL 2025/26",
         "liveStartDate": {
           "WIB": "03-05-2026 05:50 PM"
         },
         "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY4JTJGYXR0MEpKM0EzeW11dWFYY2cuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGOCUyRmF0dGkxbmR3R3BGaHlpZGNkLmpwZ1x1MDAyNmNvbXBDb2xvcj1iNTllNWZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGOCUyRmF0dDg3anVQVVhiRERScTNJLnBuZ1x1MDAyNmRlc2M9V1NMKyVFMiU4MCVBMitNVysyMVx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9V1NMXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNSUyRjglMkZhdHRYRGJTSW91NWJOZXRqMC5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI1JTJGOCUyRmF0dDlueThuUHlaRWpZQTVILnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPU1hbitDaXR5XHUwMDI2dGVhbTI9TGl2ZXJwb29sXHUwMDI2dGVtcGxhdGU9dGVhbXZ0ZWFtLWxhbmRzY2FwZSJ9.9oiZsmRafIVy69gLSBLE6U234MxZLUNZLFXt9uUoDD0",
+        "scheduleLabel": "03-05-2026 05:50 PM"
+      },
+      {
+        "id": "5583171",
+        "title": "Tottenham Hotspur v London City Lionesses - WSL 2025/26",
+        "liveStartDate": {
+          "WIB": "03-05-2026 05:50 PM"
+        },
+        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY4JTJGYXR0MEpKM0EzeW11dWFYY2cuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGOCUyRmF0dGkxbmR3R3BGaHlpZGNkLmpwZ1x1MDAyNmNvbXBDb2xvcj1iNTllNWZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGOCUyRmF0dDg3anVQVVhiRERScTNJLnBuZ1x1MDAyNmRlc2M9V1NMKyVFMiU4MCVBMitNVysyMVx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9V1NMXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNSUyRjklMkZhdHRWYmtnOVREaW42YmVEVS5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI1JTJGOCUyRmF0dGVveld6WXBvYkdTbW5jLnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPVNwdXJzXHUwMDI2dGVhbTI9TG9uZG9uK0NpdHlcdTAwMjZ0ZW1wbGF0ZT10ZWFtdnRlYW0tbGFuZHNjYXBlIn0.IWBQ97RyyKAUgs4mxgKo7i5Ehw1bR8MImt5AXl7oDXw",
         "scheduleLabel": "03-05-2026 05:50 PM"
       },
       {
@@ -202,21 +193,21 @@
         "scheduleLabel": "08-05-2026 01:55 AM"
       },
       {
-        "id": "6519242",
-        "title": "Crystal Palace v Shakhtar Donetsk - UEFA Conference League 2025/2026",
-        "liveStartDate": {
-          "WIB": "08-05-2026 03:55 AM"
-        },
-        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0YmRUdGQ5akNveFFJeEUuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dE9SeUxWNUtKOUgzQUdULmpwZ1x1MDAyNmNvbXBDb2xvcj0wMGJlMTRcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dGN3a0tZeDFNb3hueUx3LnBuZ1x1MDAyNmRlc2M9VUVDTCslRTIlODAlQTIrU0YrTGVnKzJcdTAwMjZoMT1Gb290YmFsbFx1MDAyNmgyPVVFRkErQ29uZmVyZW5jZStMZWFndWVcdTAwMjZsb2dvMT0lMkZjbXMlMkYyMDI1JTJGOSUyRmF0dGp3TjdwNmdPUjZrWTkyLnBuZ1x1MDAyNmxvZ28yPSUyRmNtcyUyRjIwMjUlMkY5JTJGYXR0ejdWWFgwRmNPcll6YVgucG5nXHUwMDI2cGljPUZvb3RiYWxsXHUwMDI2dGVhbTE9Q3J5c3RhbCtQYWxhY2VcdTAwMjZ0ZWFtMj1TaGFraHRhcitEb25ldHNrXHUwMDI2dGVtcGxhdGU9dGVhbXZ0ZWFtLWxhbmRzY2FwZSJ9.7RVnSe7BH2_2ojoPNs0XG5M8ajXWurEugW7kG8VYMY8",
-        "scheduleLabel": "08-05-2026 03:55 AM"
-      },
-      {
         "id": "6519241",
         "title": "Strasbourg v Rayo Vallecano - UEFA Conference League 2025/2026",
         "liveStartDate": {
           "WIB": "08-05-2026 03:55 AM"
         },
         "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0YmRUdGQ5akNveFFJeEUuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dE9SeUxWNUtKOUgzQUdULmpwZ1x1MDAyNmNvbXBDb2xvcj0wMGJlMTRcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dGN3a0tZeDFNb3hueUx3LnBuZ1x1MDAyNmRlc2M9VUVDTCslRTIlODAlQTIrU0YrTGVnKzJcdTAwMjZoMT1Gb290YmFsbFx1MDAyNmgyPVVFRkErQ29uZmVyZW5jZStMZWFndWVcdTAwMjZsb2dvMT0lMkZjbXMlMkYyMDI1JTJGOSUyRmF0dDROenVRVFhZNjl2cENZLnBuZ1x1MDAyNmxvZ28yPSUyRmNtcyUyRjIwMjUlMkY5JTJGYXR0YUNTMlRCTmpoMWc0ZDUucG5nXHUwMDI2cGljPUZvb3RiYWxsXHUwMDI2dGVhbTE9U3RyYXNib3VyZ1x1MDAyNnRlYW0yPVJheW8rVmFsbGVjYW5vXHUwMDI2dGVtcGxhdGU9dGVhbXZ0ZWFtLWxhbmRzY2FwZSJ9.a4AyLnqWfGcAY0q9WOYoet0W-vO-JdIgNm_c7WEQbG4",
+        "scheduleLabel": "08-05-2026 03:55 AM"
+      },
+      {
+        "id": "6519242",
+        "title": "Crystal Palace v Shakhtar Donetsk - UEFA Conference League 2025/2026",
+        "liveStartDate": {
+          "WIB": "08-05-2026 03:55 AM"
+        },
+        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0YmRUdGQ5akNveFFJeEUuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dE9SeUxWNUtKOUgzQUdULmpwZ1x1MDAyNmNvbXBDb2xvcj0wMGJlMTRcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dGN3a0tZeDFNb3hueUx3LnBuZ1x1MDAyNmRlc2M9VUVDTCslRTIlODAlQTIrU0YrTGVnKzJcdTAwMjZoMT1Gb290YmFsbFx1MDAyNmgyPVVFRkErQ29uZmVyZW5jZStMZWFndWVcdTAwMjZsb2dvMT0lMkZjbXMlMkYyMDI1JTJGOSUyRmF0dGp3TjdwNmdPUjZrWTkyLnBuZ1x1MDAyNmxvZ28yPSUyRmNtcyUyRjIwMjUlMkY5JTJGYXR0ejdWWFgwRmNPcll6YVgucG5nXHUwMDI2cGljPUZvb3RiYWxsXHUwMDI2dGVhbTE9Q3J5c3RhbCtQYWxhY2VcdTAwMjZ0ZWFtMj1TaGFraHRhcitEb25ldHNrXHUwMDI2dGVtcGxhdGU9dGVhbXZ0ZWFtLWxhbmRzY2FwZSJ9.7RVnSe7BH2_2ojoPNs0XG5M8ajXWurEugW7kG8VYMY8",
         "scheduleLabel": "08-05-2026 03:55 AM"
       },
       {
@@ -263,6 +254,15 @@
         },
         "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY3JTJGYXR0VnZEVlVubXpwczBhUWkuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dGE2Z0w1U2ZUaXJuN1FXLmpwZ1x1MDAyNmNvbXBDb2xvcj1ENTMzM0VcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dFVsMUNkRkNYMFBxeUQ5LnBuZ1x1MDAyNmRlc2M9TldTTCslRTIlODAlQTIrUjdcdTAwMjZoMT1Gb290YmFsbFx1MDAyNmgyPU5XU0xcdTAwMjZsb2dvMT0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dFd3bFdCN1VUTUR3ZFBBLnBuZ1x1MDAyNmxvZ28yPSUyRmNtcyUyRjIwMjUlMkY3JTJGYXR0SUxHZXgxUzZUWWNkTUwucG5nXHUwMDI2cGljPUZvb3RiYWxsXHUwMDI2dGVhbTE9T3JsYW5kb1x1MDAyNnRlYW0yPU50aCtDYXJvbGluYVx1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.X4LAGutNIuLwL5iAhKBxCtrFHAH1wnbyuBAWiQm3-wo",
         "scheduleLabel": "09-05-2026 07:55 AM"
+      },
+      {
+        "id": "5487912",
+        "title": "Brighton & Hove Albion v Wolverhampton Wanderers - Premier League 2025/2026",
+        "liveStartDate": {
+          "WIB": "09-05-2026 08:50 PM"
+        },
+        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjYlMkYxJTJGYXR0NHE5ckZrM1hjS1JkcTYuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI2JTJGMSUyRmF0dFlVOWZLeVEwbElhQU9uLmpwZ1x1MDAyNmNvbXBDb2xvcj0wNUYwRkZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGNiUyRmF0dDdvempyRzRZWW83ckZPLnBuZ1x1MDAyNmRlc2M9UHJlbWllcitMZWFndWUrJUUyJTgwJUEyK01XKzM2XHUwMDI2aDE9Rm9vdGJhbGxcdTAwMjZoMj1QcmVtaWVyK0xlYWd1ZVx1MDAyNmxvZ28xPSUyRmNtcyUyRjIwMjUlMkY2JTJGYXR0THN1b3liTFpjT1VJem4ucG5nXHUwMDI2bG9nbzI9JTJGY21zJTJGMjAyNSUyRjYlMkZhdHRsV0FRakdQMFpSbm9rRy5wbmdcdTAwMjZwaWM9Rm9vdGJhbGxcdTAwMjZ0ZWFtMT1CcmlnaHRvblx1MDAyNnRlYW0yPVdvbHZlc1x1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.N-J4IxpmBMj8HxbaoE0eSx4GBhi8h4UX80NcHJ0QbUU",
+        "scheduleLabel": "09-05-2026 08:50 PM"
       },
       {
         "id": "6355487",
