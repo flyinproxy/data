@@ -1,8 +1,17 @@
 {
-  "lastRefresh": "19-10-2026 11:24 AM",
+  "lastRefresh": "19-10-2026 11:27 AM",
   "fixtures": {
     "live": [],
     "upcoming": [
+      {
+        "id": "7383463",
+        "title": "Ningbo: Day 1 - WTA 500",
+        "liveStartDate": {
+          "WIB": "19-10-2026 06:30 PM"
+        },
+        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjYlMkYzJTJGYXR0bU1rYmxRNTlBR04xdzUuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI2JTJGMyUyRmF0dDQ2Z1RPMjA3RmZ4cmZoLmpwZ1x1MDAyNmNvbXBDb2xvcj02NDhlOGNcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI2JTJGMyUyRmF0dGdBSVo5a1IxeDR6aXdpLnBuZ1x1MDAyNmRlc2M9V1RBKzUwMFx1MDAyNmgxPU5pbmdib1x1MDAyNmgyPURheSsxXHUwMDI2cGljPVRlbm5pc1x1MDAyNnRlbXBsYXRlPWJhc2ljLWxhbmRzY2FwZSJ9.lo_A5z96e8VbYsWP6s289djCsA19fIsYIQVF6X3Y9v0",
+        "scheduleLabel": "19-10-2026 06:30 PM"
+      },
       {
         "id": "8423970",
         "title": "Tottenham Hotspur v Coventry City - Premier League Matchweek 7 2026/2027",
@@ -11,6 +20,15 @@
         },
         "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjYlMkY4JTJGYXR0T3RzcGRHbzAwaVBkYzkuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI2JTJGOCUyRmF0dDZuenVINVViZXFJZXNjLmpwZ1x1MDAyNmNvbXBDb2xvcj1GRjI4ODJcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI2JTJGOCUyRmF0dFVqU0FMeWlvVlpqSmlMLnBuZ1x1MDAyNmRlc2M9UHJlbWllcitMZWFndWVcdTAwMjZoMT1Gb290YmFsbFx1MDAyNmgyPVByZW1pZXIrTGVhZ3VlXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNiUyRjUlMkZhdHRybEVrckJjYkRhMjVQTy5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI2JTJGNiUyRmF0dHRuTTdtSFhENFZDbVhWLnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPVNwdXJzXHUwMDI2dGVhbTI9Q292ZW50cnkrQ2l0eVx1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.MXwVdhgajAkWTSA1wy3pQWsrl_FaA9_5lo661vhm_Ks",
         "scheduleLabel": "20-10-2026 01:30 AM"
+      },
+      {
+        "id": "7383454",
+        "title": "Ningbo: Day 2 - WTA 500",
+        "liveStartDate": {
+          "WIB": "20-10-2026 12:00 PM"
+        },
+        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjYlMkYzJTJGYXR0bU1rYmxRNTlBR04xdzUuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI2JTJGMyUyRmF0dDQ2Z1RPMjA3RmZ4cmZoLmpwZ1x1MDAyNmNvbXBDb2xvcj02NDhlOGNcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI2JTJGMyUyRmF0dGdBSVo5a1IxeDR6aXdpLnBuZ1x1MDAyNmRlc2M9V1RBKzUwMFx1MDAyNmgxPU5pbmdib1x1MDAyNmgyPURheSsyXHUwMDI2cGljPVRlbm5pc1x1MDAyNnRlbXBsYXRlPWJhc2ljLWxhbmRzY2FwZSJ9.3mGWdPNai9t9K6_wLSZDxe8rpEkEgh22K9W4AshuQ1M",
+        "scheduleLabel": "20-10-2026 12:00 PM"
       },
       {
         "id": "8438780",
@@ -22,21 +40,21 @@
         "scheduleLabel": "20-10-2026 06:55 PM"
       },
       {
-        "id": "8097178",
-        "title": "Sabah v Borussia Dortmund - UEFA Champions League Matchday 3 2026/2027",
-        "liveStartDate": {
-          "WIB": "20-10-2026 11:40 PM"
-        },
-        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0SVNzY21SeHVVVHF2U3IuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dEdyVFh3OFpwbDFmcXl4LmpwZ1x1MDAyNmNvbXBDb2xvcj00MTFBQTZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGMTAlMkZhdHRBWjQ3dVN3SVZEaU1Ocy5wbmdcdTAwMjZkZXNjPUxlYWd1ZStQaGFzZVx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9VUVGQStDaGFtcGlvbnMrTGVhZ3VlXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNiUyRjklMkZhdHQ5VXUyS0NwM0E3NVNTUC5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dElNRHFBWWQ0NjljSXRoLnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPVNhYmFoXHUwMDI2dGVhbTI9RG9ydG11bmRcdTAwMjZ0ZW1wbGF0ZT10ZWFtdnRlYW0tbGFuZHNjYXBlIn0.0D2YE8l5pog9NYRDJMTLapH624JpUJmVQOQ-3SJoH8Y",
-        "scheduleLabel": "20-10-2026 11:40 PM"
-      },
-      {
         "id": "8097206",
         "title": "Fenerbahçe v Slavia Praha - UEFA Champions League Matchday 3 2026/2027",
         "liveStartDate": {
           "WIB": "20-10-2026 11:40 PM"
         },
         "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0SVNzY21SeHVVVHF2U3IuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dEdyVFh3OFpwbDFmcXl4LmpwZ1x1MDAyNmNvbXBDb2xvcj00MTFBQTZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGMTAlMkZhdHRBWjQ3dVN3SVZEaU1Ocy5wbmdcdTAwMjZkZXNjPUxlYWd1ZStQaGFzZVx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9VUVGQStDaGFtcGlvbnMrTGVhZ3VlXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNiUyRjklMkZhdHRzNVdqazhPZjBFU1cwUy5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI1JTJGOSUyRmF0dGdBcTRoQ2M3TW1EZWxJLnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPUZlbmVyYmFoJUMzJUE3ZVx1MDAyNnRlYW0yPVNsYXZpYStQcmFoYVx1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.6E5VIUbsvBa1FNjan8-hRGVETqgts-Mo828f0IWpcCM",
+        "scheduleLabel": "20-10-2026 11:40 PM"
+      },
+      {
+        "id": "8097178",
+        "title": "Sabah v Borussia Dortmund - UEFA Champions League Matchday 3 2026/2027",
+        "liveStartDate": {
+          "WIB": "20-10-2026 11:40 PM"
+        },
+        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0SVNzY21SeHVVVHF2U3IuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dEdyVFh3OFpwbDFmcXl4LmpwZ1x1MDAyNmNvbXBDb2xvcj00MTFBQTZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGMTAlMkZhdHRBWjQ3dVN3SVZEaU1Ocy5wbmdcdTAwMjZkZXNjPUxlYWd1ZStQaGFzZVx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9VUVGQStDaGFtcGlvbnMrTGVhZ3VlXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNiUyRjklMkZhdHQ5VXUyS0NwM0E3NVNTUC5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dElNRHFBWWQ0NjljSXRoLnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPVNhYmFoXHUwMDI2dGVhbTI9RG9ydG11bmRcdTAwMjZ0ZW1wbGF0ZT10ZWFtdnRlYW0tbGFuZHNjYXBlIn0.0D2YE8l5pog9NYRDJMTLapH624JpUJmVQOQ-3SJoH8Y",
         "scheduleLabel": "20-10-2026 11:40 PM"
       },
       {
@@ -47,6 +65,15 @@
         },
         "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0SVNzY21SeHVVVHF2U3IuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dEdyVFh3OFpwbDFmcXl4LmpwZ1x1MDAyNmNvbXBDb2xvcj00MTFBQTZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGMTAlMkZhdHRBWjQ3dVN3SVZEaU1Ocy5wbmdcdTAwMjZkZXNjPUxlYWd1ZStQaGFzZVx1MDAyNmgxPUZvb3RiYWxsK1pvbmVcdTAwMjZoMj1XZWRuZXNkYXlcdTAwMjZwaWM9Rm9vdGJhbGxcdTAwMjZ0ZW1wbGF0ZT1iYXNpYy1sYW5kc2NhcGUifQ.VCA_1OOEJ5yYVSaRZ1nmsW8iqmu0ZhC7XgEIlhpg_JA",
         "scheduleLabel": "21-10-2026 01:40 AM"
+      },
+      {
+        "id": "8097470",
+        "title": "Liverpool v Villarreal - UEFA Champions League Matchday 3 2026/2027",
+        "liveStartDate": {
+          "WIB": "21-10-2026 01:55 AM"
+        },
+        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0SVNzY21SeHVVVHF2U3IuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dEdyVFh3OFpwbDFmcXl4LmpwZ1x1MDAyNmNvbXBDb2xvcj00MTFBQTZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGMTAlMkZhdHRBWjQ3dVN3SVZEaU1Ocy5wbmdcdTAwMjZkZXNjPUxlYWd1ZStQaGFzZVx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9VUVGQStDaGFtcGlvbnMrTGVhZ3VlXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNCUyRjklMkZhdHQ2R2R2TkxGeFFoQXRZbS5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI1JTJGOSUyRmF0dEhHRmhyT1BhRjhiQ2JhLnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPUxpdmVycG9vbFx1MDAyNnRlYW0yPVZpbGxhcnJlYWxcdTAwMjZ0ZW1wbGF0ZT10ZWFtdnRlYW0tbGFuZHNjYXBlIn0.rtJneVQcTWDW56OREU_zpdzoLyx8WF-2-Ls4oyJrfIw",
+        "scheduleLabel": "21-10-2026 01:55 AM"
       },
       {
         "id": "8097281",
@@ -67,12 +94,12 @@
         "scheduleLabel": "21-10-2026 01:55 AM"
       },
       {
-        "id": "8097470",
-        "title": "Liverpool v Villarreal - UEFA Champions League Matchday 3 2026/2027",
+        "id": "8097746",
+        "title": "Roma v Slovan Bratislava - UEFA Champions League Matchday 3 2026/2027",
         "liveStartDate": {
           "WIB": "21-10-2026 01:55 AM"
         },
-        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0SVNzY21SeHVVVHF2U3IuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dEdyVFh3OFpwbDFmcXl4LmpwZ1x1MDAyNmNvbXBDb2xvcj00MTFBQTZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGMTAlMkZhdHRBWjQ3dVN3SVZEaU1Ocy5wbmdcdTAwMjZkZXNjPUxlYWd1ZStQaGFzZVx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9VUVGQStDaGFtcGlvbnMrTGVhZ3VlXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNCUyRjklMkZhdHQ2R2R2TkxGeFFoQXRZbS5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI1JTJGOSUyRmF0dEhHRmhyT1BhRjhiQ2JhLnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPUxpdmVycG9vbFx1MDAyNnRlYW0yPVZpbGxhcnJlYWxcdTAwMjZ0ZW1wbGF0ZT10ZWFtdnRlYW0tbGFuZHNjYXBlIn0.rtJneVQcTWDW56OREU_zpdzoLyx8WF-2-Ls4oyJrfIw",
+        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0SVNzY21SeHVVVHF2U3IuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dEdyVFh3OFpwbDFmcXl4LmpwZ1x1MDAyNmNvbXBDb2xvcj00MTFBQTZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGMTAlMkZhdHRBWjQ3dVN3SVZEaU1Ocy5wbmdcdTAwMjZkZXNjPUxlYWd1ZStQaGFzZVx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9VUVGQStDaGFtcGlvbnMrTGVhZ3VlXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNiUyRjklMkZhdHRLVU1QQXF2djNEZHpMNy5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dEh6elRhUUpiYlVaMWJiLnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPVJvbWFcdTAwMjZ0ZWFtMj1TbG92YW4rQnJhdGlzbGF2YVx1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ._JpKIEJu4dn9CNZeO4EWPXimS8hTMi5ipxqA6jjurKc",
         "scheduleLabel": "21-10-2026 01:55 AM"
       },
       {
@@ -85,15 +112,6 @@
         "scheduleLabel": "21-10-2026 01:55 AM"
       },
       {
-        "id": "8097172",
-        "title": "Porto v PSV - UEFA Champions League Matchday 3 2026/2027",
-        "liveStartDate": {
-          "WIB": "21-10-2026 01:55 AM"
-        },
-        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0SVNzY21SeHVVVHF2U3IuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dEdyVFh3OFpwbDFmcXl4LmpwZ1x1MDAyNmNvbXBDb2xvcj00MTFBQTZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGMTAlMkZhdHRBWjQ3dVN3SVZEaU1Ocy5wbmdcdTAwMjZkZXNjPUxlYWd1ZStQaGFzZVx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9VUVGQStDaGFtcGlvbnMrTGVhZ3VlXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNiUyRjklMkZhdHRGT3pNVUtXamVkMFIzWS5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dG1lZ3d3dTlTMGZEM0xoLnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPVBvcnRvXHUwMDI2dGVhbTI9UFNWXHUwMDI2dGVtcGxhdGU9dGVhbXZ0ZWFtLWxhbmRzY2FwZSJ9.Np-XS8MpiVY-VXHv6F6fm7VclZv-4nB80SlVHF_Wdps",
-        "scheduleLabel": "21-10-2026 01:55 AM"
-      },
-      {
         "id": "8097272",
         "title": "Napoli v Bodø / Glimt - UEFA Champions League Matchday 3 2026/2027",
         "liveStartDate": {
@@ -103,21 +121,30 @@
         "scheduleLabel": "21-10-2026 01:55 AM"
       },
       {
-        "id": "8097746",
-        "title": "Roma v Slovan Bratislava - UEFA Champions League Matchday 3 2026/2027",
+        "id": "8097172",
+        "title": "Porto v PSV - UEFA Champions League Matchday 3 2026/2027",
         "liveStartDate": {
           "WIB": "21-10-2026 01:55 AM"
         },
-        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0SVNzY21SeHVVVHF2U3IuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dEdyVFh3OFpwbDFmcXl4LmpwZ1x1MDAyNmNvbXBDb2xvcj00MTFBQTZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGMTAlMkZhdHRBWjQ3dVN3SVZEaU1Ocy5wbmdcdTAwMjZkZXNjPUxlYWd1ZStQaGFzZVx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9VUVGQStDaGFtcGlvbnMrTGVhZ3VlXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNiUyRjklMkZhdHRLVU1QQXF2djNEZHpMNy5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dEh6elRhUUpiYlVaMWJiLnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPVJvbWFcdTAwMjZ0ZWFtMj1TbG92YW4rQnJhdGlzbGF2YVx1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ._JpKIEJu4dn9CNZeO4EWPXimS8hTMi5ipxqA6jjurKc",
+        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0SVNzY21SeHVVVHF2U3IuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dEdyVFh3OFpwbDFmcXl4LmpwZ1x1MDAyNmNvbXBDb2xvcj00MTFBQTZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGMTAlMkZhdHRBWjQ3dVN3SVZEaU1Ocy5wbmdcdTAwMjZkZXNjPUxlYWd1ZStQaGFzZVx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9VUVGQStDaGFtcGlvbnMrTGVhZ3VlXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNiUyRjklMkZhdHRGT3pNVUtXamVkMFIzWS5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dG1lZ3d3dTlTMGZEM0xoLnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPVBvcnRvXHUwMDI2dGVhbTI9UFNWXHUwMDI2dGVtcGxhdGU9dGVhbXZ0ZWFtLWxhbmRzY2FwZSJ9.Np-XS8MpiVY-VXHv6F6fm7VclZv-4nB80SlVHF_Wdps",
         "scheduleLabel": "21-10-2026 01:55 AM"
       },
       {
-        "id": "8435031",
-        "title": "Yokohama F. Marinos v Tokyo Verdy - J.League 2026",
+        "id": "7383460",
+        "title": "Ningbo: Day 3 - WTA 500",
+        "liveStartDate": {
+          "WIB": "21-10-2026 12:00 PM"
+        },
+        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjYlMkYzJTJGYXR0bU1rYmxRNTlBR04xdzUuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI2JTJGMyUyRmF0dDQ2Z1RPMjA3RmZ4cmZoLmpwZ1x1MDAyNmNvbXBDb2xvcj02NDhlOGNcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI2JTJGMyUyRmF0dGdBSVo5a1IxeDR6aXdpLnBuZ1x1MDAyNmRlc2M9V1RBKzUwMFx1MDAyNmgxPU5pbmdib1x1MDAyNmgyPURheSszXHUwMDI2cGljPVRlbm5pc1x1MDAyNnRlbXBsYXRlPWJhc2ljLWxhbmRzY2FwZSJ9.wjIG34Qq32WIi4tOW5cHxu8UwPnzcRRqfgGbR71UlPw",
+        "scheduleLabel": "21-10-2026 12:00 PM"
+      },
+      {
+        "id": "8435046",
+        "title": "Nagasaki v Sanfrecce Hiroshima - J.League 2026",
         "liveStartDate": {
           "WIB": "21-10-2026 04:55 PM"
         },
-        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY3JTJGYXR0WEI3bVlQY2RXeTlGaFguanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dFhoUmVmVDFYS2Ywd2JELmpwZ1x1MDAyNmNvbXBDb2xvcj1FRDFDMjRcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dFBPS3ZQSnp1VktMWmw3LnBuZ1x1MDAyNmRlc2M9Si5MZWFndWVcdTAwMjZoMT1Gb290YmFsbFx1MDAyNmgyPUouTGVhZ3VlXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNSUyRjclMkZhdHRFa05FSllpYjVDa29vUi5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dDJXdHUxRlF5aHVKdVpoLnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPVlva29oYW1hK0ZNXHUwMDI2dGVhbTI9VG9reW8rVmVyZHlcdTAwMjZ0ZW1wbGF0ZT10ZWFtdnRlYW0tbGFuZHNjYXBlIn0.Wx_r_8ipWRt2Rq0qPFEY4qgj3PNTVRzuZpLK1uctTq4",
+        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY3JTJGYXR0WEI3bVlQY2RXeTlGaFguanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dFhoUmVmVDFYS2Ywd2JELmpwZ1x1MDAyNmNvbXBDb2xvcj1FRDFDMjRcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dFBPS3ZQSnp1VktMWmw3LnBuZ1x1MDAyNmRlc2M9Si5MZWFndWVcdTAwMjZoMT1Gb290YmFsbFx1MDAyNmgyPUouTGVhZ3VlXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNiUyRjglMkZhdHRnazQ2dkpEdlB5QURNYy5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dGJDeGJwcDNZWnc4Z2tlLnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPU5hZ2FzYWtpXHUwMDI2dGVhbTI9U2FuZnJlY2NlXHUwMDI2dGVtcGxhdGU9dGVhbXZ0ZWFtLWxhbmRzY2FwZSJ9.ph_7RjQ1dubm3R4qJ9ztojxiQwIMsJxbP0RPZMBw4gY",
         "scheduleLabel": "21-10-2026 04:55 PM"
       },
       {
@@ -130,12 +157,12 @@
         "scheduleLabel": "21-10-2026 04:55 PM"
       },
       {
-        "id": "8435046",
-        "title": "Nagasaki v Sanfrecce Hiroshima - J.League 2026",
+        "id": "8435031",
+        "title": "Yokohama F. Marinos v Tokyo Verdy - J.League 2026",
         "liveStartDate": {
           "WIB": "21-10-2026 04:55 PM"
         },
-        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY3JTJGYXR0WEI3bVlQY2RXeTlGaFguanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dFhoUmVmVDFYS2Ywd2JELmpwZ1x1MDAyNmNvbXBDb2xvcj1FRDFDMjRcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dFBPS3ZQSnp1VktMWmw3LnBuZ1x1MDAyNmRlc2M9Si5MZWFndWVcdTAwMjZoMT1Gb290YmFsbFx1MDAyNmgyPUouTGVhZ3VlXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNiUyRjglMkZhdHRnazQ2dkpEdlB5QURNYy5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dGJDeGJwcDNZWnc4Z2tlLnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPU5hZ2FzYWtpXHUwMDI2dGVhbTI9U2FuZnJlY2NlXHUwMDI2dGVtcGxhdGU9dGVhbXZ0ZWFtLWxhbmRzY2FwZSJ9.ph_7RjQ1dubm3R4qJ9ztojxiQwIMsJxbP0RPZMBw4gY",
+        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjUlMkY3JTJGYXR0WEI3bVlQY2RXeTlGaFguanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dFhoUmVmVDFYS2Ywd2JELmpwZ1x1MDAyNmNvbXBDb2xvcj1FRDFDMjRcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dFBPS3ZQSnp1VktMWmw3LnBuZ1x1MDAyNmRlc2M9Si5MZWFndWVcdTAwMjZoMT1Gb290YmFsbFx1MDAyNmgyPUouTGVhZ3VlXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNSUyRjclMkZhdHRFa05FSllpYjVDa29vUi5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI1JTJGNyUyRmF0dDJXdHUxRlF5aHVKdVpoLnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPVlva29oYW1hK0ZNXHUwMDI2dGVhbTI9VG9reW8rVmVyZHlcdTAwMjZ0ZW1wbGF0ZT10ZWFtdnRlYW0tbGFuZHNjYXBlIn0.Wx_r_8ipWRt2Rq0qPFEY4qgj3PNTVRzuZpLK1uctTq4",
         "scheduleLabel": "21-10-2026 04:55 PM"
       },
       {
@@ -202,24 +229,6 @@
         "scheduleLabel": "22-10-2026 01:55 AM"
       },
       {
-        "id": "8097191",
-        "title": "Internazionale v Shakhtar Donetsk - UEFA Champions League Matchday 3 2026/2027",
-        "liveStartDate": {
-          "WIB": "22-10-2026 01:55 AM"
-        },
-        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0SVNzY21SeHVVVHF2U3IuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dEdyVFh3OFpwbDFmcXl4LmpwZ1x1MDAyNmNvbXBDb2xvcj00MTFBQTZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGMTAlMkZhdHRBWjQ3dVN3SVZEaU1Ocy5wbmdcdTAwMjZkZXNjPUxlYWd1ZStQaGFzZVx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9VUVGQStDaGFtcGlvbnMrTGVhZ3VlXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNCUyRjklMkZhdHRvSE95NzNRSENLNnpRZi5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dHo3VlhYMEZjT3JZemFYLnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPUludGVyK01pbGFuXHUwMDI2dGVhbTI9U2hha2h0YXIrRG9uZXRza1x1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.XtNt2UdVax3SoPFktpXZcDyamgHN7uB4Z-0iRBthrCc",
-        "scheduleLabel": "22-10-2026 01:55 AM"
-      },
-      {
-        "id": "8097164",
-        "title": "Club Brugge v Lens - UEFA Champions League Matchday 3 2026/2027",
-        "liveStartDate": {
-          "WIB": "22-10-2026 01:55 AM"
-        },
-        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0SVNzY21SeHVVVHF2U3IuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dEdyVFh3OFpwbDFmcXl4LmpwZ1x1MDAyNmNvbXBDb2xvcj00MTFBQTZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGMTAlMkZhdHRBWjQ3dVN3SVZEaU1Ocy5wbmdcdTAwMjZkZXNjPUxlYWd1ZStQaGFzZVx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9VUVGQStDaGFtcGlvbnMrTGVhZ3VlXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNCUyRjklMkZhdHRMT2pvMWRpaE15ZnhSSi5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI2JTJGOSUyRmF0dEs3c1NUTVI1aW11Uk11LnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPUNsdWIrQnJ1Z2dlXHUwMDI2dGVhbTI9TGVuc1x1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.HpqdFW6LR1Stfv5f-mxLXBO-JzjHtdK-Ci-63u1VJYY",
-        "scheduleLabel": "22-10-2026 01:55 AM"
-      },
-      {
         "id": "8097340",
         "title": "Real Betis v Feyenoord - UEFA Champions League Matchday 3 2026/2027",
         "liveStartDate": {
@@ -238,40 +247,31 @@
         "scheduleLabel": "22-10-2026 01:55 AM"
       },
       {
-        "id": "8100150",
-        "title": "Kairat v Panathinaikos - UEFA Conference League Matchday 2 2026/2027",
+        "id": "8097191",
+        "title": "Internazionale v Shakhtar Donetsk - UEFA Champions League Matchday 3 2026/2027",
         "liveStartDate": {
-          "WIB": "22-10-2026 09:25 PM"
+          "WIB": "22-10-2026 01:55 AM"
         },
-        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0YmRUdGQ5akNveFFJeEUuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dE9SeUxWNUtKOUgzQUdULmpwZ1x1MDAyNmNvbXBDb2xvcj0wMGJlMTRcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dGN3a0tZeDFNb3hueUx3LnBuZ1x1MDAyNmRlc2M9TGVhZ3VlK1BoYXNlXHUwMDI2aDE9Rm9vdGJhbGxcdTAwMjZoMj1VRUZBK0NvbmZlcmVuY2UrTGVhZ3VlXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNiUyRjklMkZhdHRoWnJTZ1k0ZXJaNk5ITy5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dEtocDlNbmZRdWdWeGQzLnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPUthaXJhdFx1MDAyNnRlYW0yPVBhbmF0aGluYWlrb3NcdTAwMjZ0ZW1wbGF0ZT10ZWFtdnRlYW0tbGFuZHNjYXBlIn0.Ydzvdn23TWCWzYn4ibQi0RR1_fFnAuCGwXlTc2QrTw8",
-        "scheduleLabel": "22-10-2026 09:25 PM"
+        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0SVNzY21SeHVVVHF2U3IuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dEdyVFh3OFpwbDFmcXl4LmpwZ1x1MDAyNmNvbXBDb2xvcj00MTFBQTZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGMTAlMkZhdHRBWjQ3dVN3SVZEaU1Ocy5wbmdcdTAwMjZkZXNjPUxlYWd1ZStQaGFzZVx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9VUVGQStDaGFtcGlvbnMrTGVhZ3VlXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNCUyRjklMkZhdHRvSE95NzNRSENLNnpRZi5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dHo3VlhYMEZjT3JZemFYLnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPUludGVyK01pbGFuXHUwMDI2dGVhbTI9U2hha2h0YXIrRG9uZXRza1x1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.XtNt2UdVax3SoPFktpXZcDyamgHN7uB4Z-0iRBthrCc",
+        "scheduleLabel": "22-10-2026 01:55 AM"
       },
       {
-        "id": "8100379",
-        "title": "Getafe v Lugano - UEFA Conference League Matchday 2 2026/2027",
+        "id": "8097164",
+        "title": "Club Brugge v Lens - UEFA Champions League Matchday 3 2026/2027",
         "liveStartDate": {
-          "WIB": "22-10-2026 11:40 PM"
+          "WIB": "22-10-2026 01:55 AM"
         },
-        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0YmRUdGQ5akNveFFJeEUuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dE9SeUxWNUtKOUgzQUdULmpwZ1x1MDAyNmNvbXBDb2xvcj0wMGJlMTRcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dGN3a0tZeDFNb3hueUx3LnBuZ1x1MDAyNmRlc2M9TGVhZ3VlK1BoYXNlXHUwMDI2aDE9Rm9vdGJhbGxcdTAwMjZoMj1VRUZBK0NvbmZlcmVuY2UrTGVhZ3VlXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNiUyRjklMkZhdHRMalpFbmxodEU4bHVNTi5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dGNSRzJSRGE4OFo0R2pjLnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPUdldGFmZVx1MDAyNnRlYW0yPUx1Z2Fub1x1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.qM-WmK7N5msU_CeF5X4JNwNwCSJvzmSsbeGvGlzP0-8",
-        "scheduleLabel": "22-10-2026 11:40 PM"
+        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0SVNzY21SeHVVVHF2U3IuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dEdyVFh3OFpwbDFmcXl4LmpwZ1x1MDAyNmNvbXBDb2xvcj00MTFBQTZcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI1JTJGMTAlMkZhdHRBWjQ3dVN3SVZEaU1Ocy5wbmdcdTAwMjZkZXNjPUxlYWd1ZStQaGFzZVx1MDAyNmgxPUZvb3RiYWxsXHUwMDI2aDI9VUVGQStDaGFtcGlvbnMrTGVhZ3VlXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNCUyRjklMkZhdHRMT2pvMWRpaE15ZnhSSi5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI2JTJGOSUyRmF0dEs3c1NUTVI1aW11Uk11LnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPUNsdWIrQnJ1Z2dlXHUwMDI2dGVhbTI9TGVuc1x1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.HpqdFW6LR1Stfv5f-mxLXBO-JzjHtdK-Ci-63u1VJYY",
+        "scheduleLabel": "22-10-2026 01:55 AM"
       },
       {
-        "id": "8100187",
-        "title": "Jablonec v Brighton & Hove Albion - UEFA Conference League Matchday 2 2026/2027",
+        "id": "7383459",
+        "title": "Ningbo: Day 4 - WTA 500",
         "liveStartDate": {
-          "WIB": "22-10-2026 11:40 PM"
+          "WIB": "22-10-2026 12:00 PM"
         },
-        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0YmRUdGQ5akNveFFJeEUuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dE9SeUxWNUtKOUgzQUdULmpwZ1x1MDAyNmNvbXBDb2xvcj0wMGJlMTRcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dGN3a0tZeDFNb3hueUx3LnBuZ1x1MDAyNmRlc2M9TGVhZ3VlK1BoYXNlXHUwMDI2aDE9Rm9vdGJhbGxcdTAwMjZoMj1VRUZBK0NvbmZlcmVuY2UrTGVhZ3VlXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNiUyRjklMkZhdHRWMmJFV3hZc2pFYzBkbi5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI2JTJGOSUyRmF0dDNzdzNYMzJrN28yZ0U3LnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPUphYmxvbmVjXHUwMDI2dGVhbTI9QnJpZ2h0b25cdTAwMjZ0ZW1wbGF0ZT10ZWFtdnRlYW0tbGFuZHNjYXBlIn0.yeL6BjcFKv3NxLDzb0v7LKGTMLpW55N8ol83VfQq3Rs",
-        "scheduleLabel": "22-10-2026 11:40 PM"
-      },
-      {
-        "id": "8106905",
-        "title": "Lech Poznań v Sunderland - UEFA Europa League Matchday 3 2026/2027",
-        "liveStartDate": {
-          "WIB": "22-10-2026 11:40 PM"
-        },
-        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0cUhVZVBPWFdBUWJ0RWsuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dGVlMFZaak5xS3RkU2JmLmpwZ1x1MDAyNmNvbXBDb2xvcj1mZjY5MDBcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dDJNelYwbXlscXVDeFhsLnBuZ1x1MDAyNmRlc2M9TGVhZ3VlK1BoYXNlXHUwMDI2aDE9Rm9vdGJhbGxcdTAwMjZoMj1VRUZBK0V1cm9wYStMZWFndWVcdTAwMjZsb2dvMT0lMkZjbXMlMkYyMDI2JTJGOSUyRmF0dEhzanREeVNsQ3hhSDZLLnBuZ1x1MDAyNmxvZ28yPSUyRmNtcyUyRjIwMjYlMkY5JTJGYXR0dThEUFdtM3dPVkloU3IucG5nXHUwMDI2cGljPUZvb3RiYWxsXHUwMDI2dGVhbTE9TGVjaCtQb3puYSVDNSU4NFx1MDAyNnRlYW0yPVN1bmRlcmxhbmRcdTAwMjZ0ZW1wbGF0ZT10ZWFtdnRlYW0tbGFuZHNjYXBlIn0.7qdoONrdIjNUcZqIfWd5F6ApvrJbVPth5JCLVKAcQx0",
-        "scheduleLabel": "22-10-2026 11:40 PM"
+        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjYlMkYzJTJGYXR0bU1rYmxRNTlBR04xdzUuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI2JTJGMyUyRmF0dDQ2Z1RPMjA3RmZ4cmZoLmpwZ1x1MDAyNmNvbXBDb2xvcj02NDhlOGNcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI2JTJGMyUyRmF0dGdBSVo5a1IxeDR6aXdpLnBuZ1x1MDAyNmRlc2M9V1RBKzUwMFx1MDAyNmgxPU5pbmdib1x1MDAyNmgyPURheSs0XHUwMDI2cGljPVRlbm5pc1x1MDAyNnRlbXBsYXRlPWJhc2ljLWxhbmRzY2FwZSJ9.M3UdoGRnCVkSg6m-H1yMYLdbWyHKokZDfY4uvwJTc4I",
+        "scheduleLabel": "22-10-2026 12:00 PM"
       }
     ]
   }
