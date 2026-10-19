@@ -1,17 +1,8 @@
 {
-  "lastRefresh": "19-10-2026 05:06 PM",
+  "lastRefresh": "19-10-2026 11:58 PM",
   "fixtures": {
     "live": [],
     "upcoming": [
-      {
-        "id": "7383463",
-        "title": "Ningbo: Day 1 - WTA 500",
-        "liveStartDate": {
-          "WIB": "19-10-2026 06:30 PM"
-        },
-        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjYlMkYzJTJGYXR0bU1rYmxRNTlBR04xdzUuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI2JTJGMyUyRmF0dDQ2Z1RPMjA3RmZ4cmZoLmpwZ1x1MDAyNmNvbXBDb2xvcj02NDhlOGNcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI2JTJGMyUyRmF0dGdBSVo5a1IxeDR6aXdpLnBuZ1x1MDAyNmRlc2M9V1RBKzUwMFx1MDAyNmgxPU5pbmdib1x1MDAyNmgyPURheSsxXHUwMDI2cGljPVRlbm5pc1x1MDAyNnRlbXBsYXRlPWJhc2ljLWxhbmRzY2FwZSJ9.lo_A5z96e8VbYsWP6s289djCsA19fIsYIQVF6X3Y9v0",
-        "scheduleLabel": "19-10-2026 06:30 PM"
-      },
       {
         "id": "8423970",
         "title": "Tottenham Hotspur v Coventry City - Premier League Matchweek 7 2026/2027",
@@ -272,6 +263,15 @@
         },
         "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjYlMkYzJTJGYXR0bU1rYmxRNTlBR04xdzUuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI2JTJGMyUyRmF0dDQ2Z1RPMjA3RmZ4cmZoLmpwZ1x1MDAyNmNvbXBDb2xvcj02NDhlOGNcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI2JTJGMyUyRmF0dGdBSVo5a1IxeDR6aXdpLnBuZ1x1MDAyNmRlc2M9V1RBKzUwMFx1MDAyNmgxPU5pbmdib1x1MDAyNmgyPURheSs0XHUwMDI2cGljPVRlbm5pc1x1MDAyNnRlbXBsYXRlPWJhc2ljLWxhbmRzY2FwZSJ9.M3UdoGRnCVkSg6m-H1yMYLdbWyHKokZDfY4uvwJTc4I",
         "scheduleLabel": "22-10-2026 12:00 PM"
+      },
+      {
+        "id": "8100150",
+        "title": "Kairat v Panathinaikos - UEFA Conference League Matchday 2 2026/2027",
+        "liveStartDate": {
+          "WIB": "22-10-2026 09:25 PM"
+        },
+        "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjQlMkY5JTJGYXR0YmRUdGQ5akNveFFJeEUuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dE9SeUxWNUtKOUgzQUdULmpwZ1x1MDAyNmNvbXBDb2xvcj0wMGJlMTRcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dGN3a0tZeDFNb3hueUx3LnBuZ1x1MDAyNmRlc2M9TGVhZ3VlK1BoYXNlXHUwMDI2aDE9Rm9vdGJhbGxcdTAwMjZoMj1VRUZBK0NvbmZlcmVuY2UrTGVhZ3VlXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNiUyRjklMkZhdHRoWnJTZ1k0ZXJaNk5ITy5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI0JTJGOSUyRmF0dEtocDlNbmZRdWdWeGQzLnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPUthaXJhdFx1MDAyNnRlYW0yPVBhbmF0aGluYWlrb3NcdTAwMjZ0ZW1wbGF0ZT10ZWFtdnRlYW0tbGFuZHNjYXBlIn0.Ydzvdn23TWCWzYn4ibQi0RR1_fFnAuCGwXlTc2QrTw8",
+        "scheduleLabel": "22-10-2026 09:25 PM"
       }
     ]
   }
