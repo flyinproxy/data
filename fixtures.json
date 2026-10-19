@@ -1,8 +1,7 @@
 {
-  "lastRefresh": "19-10-2026 11:58 PM",
+  "lastRefresh": "20-10-2026 04:20 AM",
   "fixtures": {
-    "live": [],
-    "upcoming": [
+    "live": [
       {
         "id": "8423970",
         "title": "Tottenham Hotspur v Coventry City - Premier League Matchweek 7 2026/2027",
@@ -10,8 +9,17 @@
           "WIB": "20-10-2026 01:30 AM"
         },
         "landscapeImage": "https://streamcoimg-a.akamaihd.net/tile/eyJhbGciOiJIUzI1NiIsImtpZCI6InBpa2FjaHUiLCJ0eXAiOiJKV1QifQ.eyJQYXJhbXMiOiJiYWNrZ3JvdW5kSW1nPSUyRmNtcyUyRjIwMjYlMkY4JTJGYXR0T3RzcGRHbzAwaVBkYzkuanBnXHUwMDI2YmFja2dyb3VuZEltZ1Bvc3Rlcj0lMkZjbXMlMkYyMDI2JTJGOCUyRmF0dDZuenVINVViZXFJZXNjLmpwZ1x1MDAyNmNvbXBDb2xvcj1GRjI4ODJcdTAwMjZjb21wTG9nbz0lMkZjbXMlMkYyMDI2JTJGOCUyRmF0dFVqU0FMeWlvVlpqSmlMLnBuZ1x1MDAyNmRlc2M9UHJlbWllcitMZWFndWVcdTAwMjZoMT1Gb290YmFsbFx1MDAyNmgyPVByZW1pZXIrTGVhZ3VlXHUwMDI2bG9nbzE9JTJGY21zJTJGMjAyNiUyRjUlMkZhdHRybEVrckJjYkRhMjVQTy5wbmdcdTAwMjZsb2dvMj0lMkZjbXMlMkYyMDI2JTJGNiUyRmF0dHRuTTdtSFhENFZDbVhWLnBuZ1x1MDAyNnBpYz1Gb290YmFsbFx1MDAyNnRlYW0xPVNwdXJzXHUwMDI2dGVhbTI9Q292ZW50cnkrQ2l0eVx1MDAyNnRlbXBsYXRlPXRlYW12dGVhbS1sYW5kc2NhcGUifQ.MXwVdhgajAkWTSA1wy3pQWsrl_FaA9_5lo661vhm_Ks",
+        "mpdUrl": "https://fastlylive.stan.video/out/v1/live/live-8423970B/CENCxHD/timeline.mpd?aws.manifestfilter=video_codec%3Ah264&aws.manifestsettings=start%3A1792434615&cdns=akamai%2Cfastly&clearaudio=true",
+        "licenseServerUrl": "https://lic.drmtoday.com/license-proxy-widevine/cenc/",
+        "customData": "eyJ1c2VySWQiOiAiMDkxMTM0MjU0OTRiNDRkOGI4NTU4OTcwYTQ4ZjJiYWEiLCJzZXNzaW9uSWQiOiAiZXlKaGJHY2lPaUpJVXpJMU5pSXNJbXRwWkNJNkluQnBhMkZqYUhVaUxDSjBlWEFpT2lKS1YxUWlmUS5leUpwWVhRaU9qRTNPVEkwTkRRNE16QXNJbVZ1ZENJNkltaGtJaXdpY0dsa0lqbzROREl6T1Rjd0xDSm1aV0YwSWpvME9EQTROVEUyTURBeE5UazNNalE0TENKd2RYSmphR0Z6WlhNaU9qQXNJbUZ3Y0NJNkluTjBZVzR0ZDJWaUlpd2liSEp1SWpvek1qY3hORE0wTVRBd01UZzJNVEEzTlRNeWZRLkdMZF84VW96bXV4VmFITU1EWU9CeG5uRnRMZERxLTU0Q2hkdEszRk1mZU0iLCJtZXJjaGFudCI6ICJzdGFuIn0=",
+        "clearKeys": {
+          "hex": "3853808d54143cfd8462cef53b098984:d73b39b939ac27a865c0f091ce3df12c"
+        },
+        "pssh": "AAAAaHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAEgIARIQOFOAjVQUPP2EYs71OwmJhCIwZXlKaGMzTmxkRWxrSWpvaWJHbDJaUzA0TkRJek9UY3dRaTFEUlU1RGVFaEVJbjA9OAA=",
         "scheduleLabel": "20-10-2026 01:30 AM"
-      },
+      }
+    ],
+    "upcoming": [
       {
         "id": "7383454",
         "title": "Ningbo: Day 2 - WTA 500",
